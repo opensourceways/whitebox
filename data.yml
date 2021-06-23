@@ -28,6 +28,11 @@ users:
 - name: 'Xiyuan Wang'
   gitee_id: 'xiyuanwang'
   github_id: 'wangxiyuan'
+  branches:
+  - oepkg_openstack-queens_oe-20.03-LTS-SP2
+  - oepkg_openstack-rocky_oe-20.03-LTS-SP2
+  - oepkg_openstack-common_oe-20.03-LTS-SP2
+  - master
   repos:
   - https://gitee.com/openeuler/blog
   - https://gitee.com/openeuler/community
