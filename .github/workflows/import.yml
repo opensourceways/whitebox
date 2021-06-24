@@ -1,0 +1,26 @@
+name: Import data to ES
+
+on:
+  push:
+    branches: [ main ]
+
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: Set up Python
+        uses: actions/setup-python@v2
+        with:
+          python-version: '3.6'
+
+      - name: Install
+        run: |
+          pip3 install -r tools/requirements.txt
+          
+      - name: Run
+        run: |
+          python tools/import.py --host ${{ secrets.ES_HOST }} --user ${{ secrets.ES_USER }} --passwd ${{ secrets.ES_TOKEN }}
