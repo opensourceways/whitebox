@@ -427,3 +427,11 @@ users:
   - https://gitee.com/src-openeuler/python-sushy
   - https://gitee.com/src-openeuler/python-taskflow
   - https://gitee.com/src-openeuler/python-tooz
+  - name: 'Peng Lei'
+  gitee_id: 'PYinuo'
+  github_id: 'Peng-Lei'
+  # Recommanded, only fetch the default branch of repos
+  repos:
+  # Optional, fetch all branches of repos
+  repos_all_branches:
+  - https://github.com/apache/spark
