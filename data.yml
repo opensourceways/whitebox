@@ -427,7 +427,8 @@ users:
   - https://gitee.com/src-openeuler/python-sushy
   - https://gitee.com/src-openeuler/python-taskflow
   - https://gitee.com/src-openeuler/python-tooz
-  - name: 'Peng Lei'
+
+- name: 'Peng Lei'
   gitee_id: 'PYinuo'
   github_id: 'Peng-Lei'
   # Recommanded, only fetch the default branch of repos
