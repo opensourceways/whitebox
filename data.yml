@@ -159,3 +159,12 @@ users:
   - https://gitee.com/src-openeuler/python-XStatic-tv4
   - https://gitee.com/src-openeuler/python-zstd
   - https://gitee.com/src-openeuler/x265
+- name: 'Peng Lei'
+  gitee_id: 'PYinuo'
+  github_id: 'Peng-Lei'
+  # Recommanded, only fetch the default branch of repos
+  repos:
+  # Optional, fetch all branches of repos
+  repos_all_branches:
+  - https://github.com/apache/spark
+  - https://github.com/Peng-Lei/Blog
