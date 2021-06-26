@@ -45,7 +45,6 @@ users:
   - https://gitee.com/openpackage/liberasurecode
   - https://gitee.com/openpackage/spice-html5
   - https://gitee.com/openpackage/kolla
-  - https://gitee.com/openpackage/kolla-ansible
   - https://github.com/theopenlab/openlab-zuul-jobs
   repos_all_branches:
   - https://gitee.com/openeuler/docs
@@ -160,3 +159,13 @@ users:
   - https://gitee.com/src-openeuler/python-XStatic-tv4
   - https://gitee.com/src-openeuler/python-zstd
   - https://gitee.com/src-openeuler/x265
+- name: 'baolin li'
+  gitee_id: 'bolin-lee'
+  github_id: 'bolin3540'
+  # Recommanded, only fetch the default branch of repos
+  repos:
+  - https://gitee.com/openeuler-practice-courses/lfs-course
+  - https://gitee.com/src-openeuler/python-iso8601
+  # Optional, fetch all branches of repos
+  repos_all_branches:
+  - https://github.com/apache/spark
