@@ -159,3 +159,18 @@ users:
   - https://gitee.com/src-openeuler/python-XStatic-tv4
   - https://gitee.com/src-openeuler/python-zstd
   - https://gitee.com/src-openeuler/x265
+- name: 'Jiawei Li'
+  gitee_id: 'ffrog'
+  github_id: 'fffrog'
+  repos:
+  - https://gitee.com/openpackage/kolla
+  - https://gitee.com/openeuler/openstack
+  repos_all_branches:
+  - https://gitee.com/src-openeuler/openstack-cinder
+  - https://gitee.com/src-openeuler/openstack-glance
+  - https://gitee.com/src-openeuler/python-gitdb
+  - https://gitee.com/src-openeuler/python-smmap
+  - https://gitee.com/src-openeuler/python-aniso8601
+  - https://gitee.com/src-openeuler/python-pyperclip
+  - https://gitee.com/src-openeuler/python-wcwidth
+  - https://gitee.com/src-openeuler/python-cliff
