@@ -190,6 +190,7 @@ users:
   - https://gitee.com/src-openeuler/python-pyperclip
   - https://gitee.com/src-openeuler/python-wcwidth
   - https://gitee.com/src-openeuler/python-cliff
+
 - name: 'huangtianhua'
   gitee_id: 'huangtianhua'
   github_id: 'huangtianhua'
