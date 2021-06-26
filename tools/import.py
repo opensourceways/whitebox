@@ -11,7 +11,9 @@ def generate_projects():
         x = yaml.load(f, Loader=yaml.FullLoader)
         users = x.get("users")
         for user in users:
-            repos = set(user.get('repos', []) + user.get('repos_all_branches', []))
+            repos = user.get('repos') if user.get('repos') else []
+            repos_all_branches = user.get('repos_all_branches') if user.get('repos_all_branches') else []
+            repos = set(repos + repos_all_branches)
             print("Found:", user.get('name', 'Unknow'), "total", len(repos), "projects")
             for repo in repos:
                 gitee_user = user.get('gitee_id', 'Unknow')
