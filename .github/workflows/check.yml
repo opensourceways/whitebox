@@ -1,9 +1,6 @@
 name: Check data.yaml
 
-
 on:
-  push:
-    branches: [ main ]
   pull_request:
     branches: [ main ]
 
