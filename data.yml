@@ -200,7 +200,6 @@ users:
   - https://github.com/huaweicloud/cce-cluster-credentials
   - https://github.com/salesforce/proto-backwards-compat-maven-plugin
   - https://github.com/apache/kylin
-  - https://github.com/salesforce/proto-backwards-compat-maven-plugin
   - https://github.com/nilslice/protolock
   - https://github.com/Alluxio/alluxio
   repos_all_branches:
