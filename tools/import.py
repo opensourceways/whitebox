@@ -12,7 +12,7 @@ def generate_projects():
         users = x.get("users")
         for user in users:
             repos = set(user.get('repos', []) + user.get('repos_all_branches', []))
-            print("Import:", user.get('name', 'Unknow'), "total", len(repos), "projects")
+            print("Found:", user.get('name', 'Unknow'), "total", len(repos), "projects")
             for repo in repos:
                 gitee_user = user.get('gitee_id', 'Unknow')
                 github_user = user.get('github_id', 'Unknow')
@@ -26,10 +26,21 @@ def generate_projects():
 
 
 @click.command()
-@click.option('--host')
-@click.option('--user')
-@click.option('--passwd')
-def _main(host, user, passwd):
+@click.option('--host', help='The public IP of ES cluster.')
+@click.option('--user', help='The user name of ES cluster.')
+@click.option('--passwd', help='The user token of ES cluster.')
+@click.argument('mode')
+def _main(host, user, passwd, mode):
+    if mode == "check":
+        for proj in generate_projects():
+            print(proj.get("name"), proj.get("user"), proj.get("repo"))
+    elif mode == "import":
+        _import(host, user, passwd)
+    else:
+        print("Unknow mode, only support 'check' and 'import'.")
+
+
+def _import(host, user, passwd):
     es = Elasticsearch([host], http_auth=(user, passwd), use_ssl=True, verify_certs=False)
     # Cleanup es index
     es.indices.delete(index='whitebox_projects', ignore=[404])
