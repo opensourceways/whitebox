@@ -343,13 +343,12 @@ users:
   github_id: 'huangtianhua'
   # Recommanded, only fetch the default branch of repos
   repos:
-  - https://gitee.com/openeuler-jenkins
+  - https://gitee.com/openeuler/openeuler-jenkins
   - https://gitee.com/openeuler/community
   - https://gitee.com/openeuler/docs
   - https://gitee.com/openeuler/openstack
   - https://gitee.com/openpackage/qemu
   - https://gitee.com/src-openeuler/networking-baremetal
-  - https://gitee.com/src-openeuler/obs_meta
   - https://gitee.com/src-openeuler/openstack-horizon
   - https://gitee.com/src-openeuler/openstack-ironic
   - https://gitee.com/src-openeuler/openstack-ironic-python-agent-builder
