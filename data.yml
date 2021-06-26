@@ -46,6 +46,7 @@ users:
   - https://gitee.com/openpackage/spice-html5
   - https://gitee.com/openpackage/kolla
   - https://github.com/theopenlab/openlab-zuul-jobs
+  - https://gitee.com/openpackage/kolla-ansible
   repos_all_branches:
   - https://gitee.com/openeuler/docs
   - https://gitee.com/src-openeuler/diskimage-builder
