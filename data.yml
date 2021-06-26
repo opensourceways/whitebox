@@ -45,6 +45,7 @@ users:
   - https://gitee.com/openpackage/liberasurecode
   - https://gitee.com/openpackage/spice-html5
   - https://gitee.com/openpackage/kolla
+  - https://gitee.com/openpackage/kolla-ansible
   - https://github.com/theopenlab/openlab-zuul-jobs
   repos_all_branches:
   - https://gitee.com/openeuler/docs
