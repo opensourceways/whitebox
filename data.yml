@@ -190,3 +190,92 @@ users:
   - https://gitee.com/src-openeuler/python-pyperclip
   - https://gitee.com/src-openeuler/python-wcwidth
   - https://gitee.com/src-openeuler/python-cliff
+- name: 'huangtianhua'
+  gitee_id: 'huangtianhua'
+  github_id: 'huangtianhua'
+  # Recommanded, only fetch the default branch of repos
+  repos:
+  - https://gitee.com/openeuler-jenkins
+  - https://gitee.com/openeuler/community
+  - https://gitee.com/openeuler/docs
+  - https://gitee.com/openeuler/openstack
+  - https://gitee.com/openpackage/qemu
+  - https://gitee.com/src-openeuler/networking-baremetal
+  - https://gitee.com/src-openeuler/obs_meta
+  - https://gitee.com/src-openeuler/openstack-horizon
+  - https://gitee.com/src-openeuler/openstack-ironic
+  - https://gitee.com/src-openeuler/openstack-ironic-python-agent-builder
+  - https://gitee.com/src-openeuler/python-editor
+  - https://gitee.com/src-openeuler/python-prettytable
+  - https://gitee.com/src-openeuler/python-pysaml2
+  - https://gitee.com/src-openeuler/python-rjsmin
+  - https://gitee.com/src-openeuler/python-sphinxcontrib-blockdiag
+  - https://gitee.com/src-openeuler/python-wsgi-intercept
+  - https://github.com/apache/spark
+  
+  # Optional, fetch all branches of repos
+  repos_all_branches:
+  - https://gitee.com/src-openeuler/diskimage-builder
+  - https://gitee.com/src-openeuler/networking-generic-switch
+  - https://gitee.com/src-openeuler/openstack-ironic-inspector
+  - https://gitee.com/src-openeuler/python-automaton
+  - https://gitee.com/src-openeuler/python-barbicanclient
+  - https://gitee.com/src-openeuler/python-bashate
+  - https://gitee.com/src-openeuler/python-castellan
+  - https://gitee.com/src-openeuler/python-cliff
+  - https://gitee.com/src-openeuler/python-cursive
+  - https://gitee.com/src-openeuler/python-debtcollector
+  - https://gitee.com/src-openeuler/python-designateclient
+  - https://gitee.com/src-openeuler/python-doc8
+  - https://gitee.com/src-openeuler/python-flask-restful
+  - https://gitee.com/src-openeuler/python-futurist
+  - https://gitee.com/src-openeuler/python-gabbi
+  - https://gitee.com/src-openeuler/python-glance-store
+  - https://gitee.com/src-openeuler/python-hacking
+  - https://gitee.com/src-openeuler/python-ironic-inspector-client
+  - https://gitee.com/src-openeuler/python-ironic-lib
+  - https://gitee.com/src-openeuler/python-keystoneauth1
+  - https://gitee.com/src-openeuler/python-ldappool
+  - https://gitee.com/src-openeuler/python-mox3
+  - https://gitee.com/src-openeuler/python-neutron-lib
+  - https://gitee.com/src-openeuler/python-neutronclient
+  - https://gitee.com/src-openeuler/python-novaclient
+  - https://gitee.com/src-openeuler/python-openstacksdk
+  - https://gitee.com/src-openeuler/python-os-brick
+  - https://gitee.com/src-openeuler/python-os-testr
+  - https://gitee.com/src-openeuler/python-os-traits
+  - https://gitee.com/src-openeuler/python-os-vif
+  - https://gitee.com/src-openeuler/python-os-xenapi
+  - https://gitee.com/src-openeuler/python-osc-placement
+  - https://gitee.com/src-openeuler/python-oslo.cache
+  - https://gitee.com/src-openeuler/python-oslo.concurrency
+  - https://gitee.com/src-openeuler/python-oslo.config
+  - https://gitee.com/src-openeuler/python-oslo.context
+  - https://gitee.com/src-openeuler/python-oslo.db
+  - https://gitee.com/src-openeuler/python-oslo.i18n
+  - https://gitee.com/src-openeuler/python-oslo.log
+  - https://gitee.com/src-openeuler/python-oslo.messaging
+  - https://gitee.com/src-openeuler/python-oslo.middleware
+  - https://gitee.com/src-openeuler/python-oslo.policy
+  - https://gitee.com/src-openeuler/python-oslo.privsep
+  - https://gitee.com/src-openeuler/python-oslo.reports
+  - https://gitee.com/src-openeuler/python-oslo.rootwrap
+  - https://gitee.com/src-openeuler/python-oslo.serialization
+  - https://gitee.com/src-openeuler/python-oslo.service
+  - https://gitee.com/src-openeuler/python-oslo.sphinx
+  - https://gitee.com/src-openeuler/python-oslo.utils
+  - https://gitee.com/src-openeuler/python-oslo.versionedobjects
+  - https://gitee.com/src-openeuler/python-oslo.vmware
+  - https://gitee.com/src-openeuler/python-oslotest
+  - https://gitee.com/src-openeuler/python-osprofiler
+  - https://gitee.com/src-openeuler/python-ovsdbapp
+  - https://gitee.com/src-openeuler/python-pycadf
+  - https://gitee.com/src-openeuler/python-pyghmi
+  - https://gitee.com/src-openeuler/python-reno
+  - https://gitee.com/src-openeuler/python-requests-mock
+  - https://gitee.com/src-openeuler/python-ryu
+  - https://gitee.com/src-openeuler/python-sphinxcontrib-apidoc
+  - https://gitee.com/src-openeuler/python-stestr
+  - https://gitee.com/src-openeuler/python-sushy
+  - https://gitee.com/src-openeuler/python-taskflow
+  - https://gitee.com/src-openeuler/python-tooz
