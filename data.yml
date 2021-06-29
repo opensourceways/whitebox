@@ -264,6 +264,7 @@ users:
   github_id: 'ZhengZhenyu'
   repos:
   - https://github.com/kunpengcompute/arm-landscape
+  - https://gitee.com/src-openeuler/libmetal
 - name: 'Jiawei Li'
   gitee_id: 'ffrog'
   github_id: 'fffrog'
