@@ -515,3 +515,40 @@ users:
   # Same as above- https://gitee.com/src-openeuler/python-sushy
   # Same as above- https://gitee.com/src-openeuler/python-taskflow
   # Same as above- https://gitee.com/src-openeuler/python-tooz
+- name: 'Bo Zhao'
+  gitee_id: 'bzhaoop'
+  github_id: 'bzhaoopenstack'
+  # Recommended, only fetch the default branch of repos
+  repos:
+  # Same as above- https://github.com/theopenlab/openlab-zuul-jobs
+  - https://github.com/bzhaoopenstack/dockertoy
+  - https://github.com/theopenlab/labkeeper
+  # Same as above- https://gitee.com/openeuler/community
+  # Optional, fetch all branches of repos
+  repos_all_branches:
+  - https://github.com/pgjdbc/pgjdbc
+  - https://github.com/bzhaoopenstack/benchmark-suites
+  - https://github.com/kunpengcompute/mysql-server
+  - https://gitee.com/src-openeuler/mariadb
+  - https://gitee.com/src-openeuler/perl-DBD-MySQL
+  - https://gitee.com/src-openeuler/perl-DBD-SQLite
+  - https://gitee.com/src-openeuler/unixODBC
+  - https://gitee.com/src-openeuler/postgresql
+  - https://gitee.com/src-openeuler/firebird
+  - https://gitee.com/src-openeuler/foomatic
+  - https://gitee.com/src-openeuler/foomatic-db
+  - https://gitee.com/src-openeuler/postgresql-odbc
+  - https://gitee.com/src-openeuler/mysql5
+  - https://gitee.com/src-openeuler/derby
+  - https://gitee.com/src-openeuler/h2
+  - https://gitee.com/src-openeuler/glassfish-legal
+  - https://gitee.com/src-openeuler/geolatte-geom
+  - https://gitee.com/src-openeuler/mariadb-connector-odbc
+  - https://gitee.com/src-openeuler/pgpool2
+  - https://gitee.com/src-openeuler/pgadmin4-server
+  - https://gitee.com/src-openeuler/perl-DBIx-Safe
+  - https://gitee.com/src-openeuler/bucardo
+  - https://gitee.com/src-openeuler/perl-DBD-MariaDB
+  - https://gitee.com/src-openeuler/gpdb
+  - https://gitee.com/src-openeuler/mongo-tools
+  - https://gitee.com/src-openeuler/obs_meta
