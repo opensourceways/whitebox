@@ -528,7 +528,6 @@ users:
   repos_all_branches:
   - https://github.com/pgjdbc/pgjdbc
   - https://github.com/bzhaoopenstack/benchmark-suites
-  - https://github.com/kunpengcompute/mysql-server
   - https://gitee.com/src-openeuler/mariadb
   - https://gitee.com/src-openeuler/perl-DBD-MySQL
   - https://gitee.com/src-openeuler/perl-DBD-SQLite
@@ -551,4 +550,3 @@ users:
   - https://gitee.com/src-openeuler/perl-DBD-MariaDB
   - https://gitee.com/src-openeuler/gpdb
   - https://gitee.com/src-openeuler/mongo-tools
-  - https://gitee.com/src-openeuler/obs_meta
