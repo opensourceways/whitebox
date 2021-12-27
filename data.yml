@@ -51,6 +51,9 @@ users:
   - "PengLei"
   # Recommended, only fetch the default branch of repos
   repos:
+  - https://gitee.com/src-openeuler/fastdb
+  - https://gitee.com/openeuler/community
+  - https://gitee.com/src-openeuler/alluxio 
   # Optional, fetch all branches of repos
   repos_all_branches:
   # Same as above- https://github.com/apache/spark
