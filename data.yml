@@ -43,6 +43,28 @@ users:
   - https://github.com/opensourceways/test-infra
   - https://github.com/opensourceways/app-cla-server
   - https://github.com/opensourceways/yabot
+  - https://github.com/opensourceways/infra-mindsp  - ore
+  - https://github.com/opensourceways/robot-gitee-  - review-trigger 
+  - https://github.com/opensourceways/repo-owners-  - cache
+  - https://github.com/opensourceways/go-gitee
+  - https://github.com/opensourceways/community-robot-lib
+  - https://github.com/opensourceways/robot-gitee-assign
+  - https://github.com/opensourceways/robot-gitee-associate
+  - https://github.com/opensourceways/robot-gitee-sweepstakes
+  - https://github.com/opensourceways/robot-gitee-checkpr
+  - https://github.com/opensourceways/robot-gitee-access
+  - https://github.com/opensourceways/robot-gitee-repo-watcher
+  - https://github.com/opensourceways/robot-gitee-openeuler-welcome
+  - https://github.com/opensourceways/robot-gitee-openeuler-review
+  - https://github.com/opensourceways/robot-gitee-label
+  - https://github.com/opensourceways/robot-gitee-opengauss-review
+  - https://github.com/opensourceways/robot-gitee-welcome
+  - https://github.com/opensourceways/robot-gitee-assign-issue
+  - https://github.com/opensourceways/robot-gitee-lifecycle
+  - https://github.com/opensourceways/repo-file-cache
+  - https://github.com/opensourceways/sync-repo-file
+  - https://github.com/opensourceways/sync-file-server
+  - https://github.com/opensourceways/gofpdf
 
 - name: 'Peng Lei'
   gitee_id: 'PYinuo'
