@@ -183,6 +183,9 @@ users:
   # Recommended, only fetch the default branch of repos
   repos:
   - https://gitee.com/openeuler/openeuler-jenkins
+  - https://gitee.com/src-openeuler/obs_meta
+  - https://gitee.com/openeuler/release-management
+  - https://gitee.com/openeuler/openeuler-obs
   # Same as above- https://gitee.com/openeuler/community
   # Same as above - https://gitee.com/openeuler/docs
   # Same as above- https://gitee.com/openeuler/openstack
@@ -265,6 +268,8 @@ users:
   # Same as above- https://gitee.com/src-openeuler/python-sushy
   # Same as above- https://gitee.com/src-openeuler/python-taskflow
   # Same as above- https://gitee.com/src-openeuler/python-tooz
+  - https://gitee.com/src-openeuler/openstack-swift
+  - https://gitee.com/src-openeuler/openstack-heat
 - name: 'Bo Zhao'
   gitee_id: 'bzhaoop'
   github_id: 'bzhaoopenstack'
