@@ -43,9 +43,9 @@ users:
   - https://github.com/opensourceways/test-infra
   - https://github.com/opensourceways/app-cla-server
   - https://github.com/opensourceways/yabot
-  - https://github.com/opensourceways/infra-mindsp  - ore
-  - https://github.com/opensourceways/robot-gitee-  - review-trigger 
-  - https://github.com/opensourceways/repo-owners-  - cache
+  - https://github.com/opensourceways/infra-mindspore
+  - https://github.com/opensourceways/robot-gitee-review-trigger 
+  - https://github.com/opensourceways/repo-owners-cache
   - https://github.com/opensourceways/go-gitee
   - https://github.com/opensourceways/community-robot-lib
   - https://github.com/opensourceways/robot-gitee-assign
