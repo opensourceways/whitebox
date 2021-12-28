@@ -300,3 +300,14 @@ users:
   - https://gitee.com/src-openeuler/perl-DBD-MariaDB
   - https://gitee.com/src-openeuler/gpdb
   - https://gitee.com/src-openeuler/mongo-tools
+- name: 'RuiChen'
+  gitee_id: 'kiwik'
+  github_id: 'kiwik'
+  repos:
+  - https://github.com/kiwik/os-version-checker
+  - https://gitee.com/openeuler/openstack
+  - https://gitee.com/openeuler/community
+  - https://github.com/theopenlab/openlab
+  - https://github.com/theopenlab/openlab-zuul-jobs
+  - https://github.com/theopenlab/publications
+  - https://github.com/theopenlab/governance
