@@ -146,15 +146,24 @@ users:
   - https://gitee.com/openeuler/ci-bot
   # Same as above- https://gitee.com/openeuler/docs
   - https://gitee.com/openeuler/website
+  - https://gitee.com/openeuler/release-management
+  - https://gitee.com/openeuler/go-gitee
+  - https://gitee.com/openeuler/openeuler-jenkins
+  - https://gitee.com/openeuler/RISC-V
+  - https://gitee.com/src-openeuler/python-jenkins
+  - https://gitee.com/src-openeuler/obs_meta
   - https://gitee.com/opensourceway/app-bugzilla
-  # not have right to clone code - https://gitee.com/georgecaotest/mypytools
+  - https://gitee.com/georgecaotest/mypytools
+  - https://gitee.com/ci-bot/survey
   - https://gitee.com/openeuler-competition/summer-2021
   - https://gitee.com/openeuler-competition/nationalinnovation-2021
   - https://gitee.com/openeuler-competition/Innovation-Practice-Course
+  - https://gitee.com/openeuler-competition/opensource-internship
   - https://gitee.com/openeuler-practice-courses/lanzhou_university_2021
   - https://gitee.com/openeuler-practice-courses/nankai_university_2021
   - https://gitee.com/openeuler-practice-courses/peking_university_2021
   - https://gitee.com/openeuler-practice-courses/lfs-course
+
 
 - name: 'Xiyuan Wang'
   gitee_id: 'xiyuanwang'
