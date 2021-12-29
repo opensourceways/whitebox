@@ -302,6 +302,8 @@ users:
   - https://github.com/bzhaoopenstack/dockertoy
   - https://github.com/theopenlab/labkeeper
   # Same as above- https://gitee.com/openeuler/community
+  - https://github.com/bzhaoopenstack/db-benchmark-suites
+  - https://github.com/bzhaoopenstack/timescaledb-on-dev/
   # Optional, fetch all branches of repos
   repos_all_branches:
   - https://github.com/pgjdbc/pgjdbc
@@ -328,6 +330,30 @@ users:
   - https://gitee.com/src-openeuler/perl-DBD-MariaDB
   - https://gitee.com/src-openeuler/gpdb
   - https://gitee.com/src-openeuler/mongo-tools
+  - https://gitee.com/src-openeuler/phoenix
+  - https://gitee.com/src-openeuler/libpq
+  - https://gitee.com/src-openeuler/percona-xtrabackup
+  - https://gitee.com/src-openeuler/barman
+  - https://gitee.com/src-openeuler/pig
+  - https://gitee.com/src-openeuler/postgresql-13
+  - https://gitee.com/src-openeuler/sqlite
+  - https://gitee.com/src-openeuler/fastdb
+  - https://gitee.com/src-openeuler/mongo-tools
+  - https://gitee.com/src-openeuler/mysqltuner
+  - https://gitee.com/src-openeuler/percona-server
+  - https://gitee.com/src-openeuler/percona-toolkit
+  - https://gitee.com/src-openeuler/neo4j
+  - https://gitee.com/src-openeuler/canal
+  - https://gitee.com/src-openeuler/tidb
+  - https://gitee.com/src-openeuler/tez
+  - https://gitee.com/src-openeuler/opengauss-server
+  - https://gitee.com/src-openeuler/opengauss-dcf
+  - https://gitee.com/src-openeuler/nanomsg
+  - https://gitee.com/src-openeuler/apache-orc
+  - https://gitee.com/src-openeuler/cjson
+  - https://gitee.com/src-openeuler/livy
+  - https://gitee.com/src-openeuler/python-horovod
+  - https://gitee.com/src-openeuler/tengine
 - name: 'RuiChen'
   gitee_id: 'kiwik'
   github_id: 'kiwik'
