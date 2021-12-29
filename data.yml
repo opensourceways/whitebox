@@ -183,21 +183,22 @@ users:
   repos:
   - https://github.com/kunpengcompute/arm-landscape
   - https://gitee.com/src-openeuler/libmetal
+
 - name: 'Jiawei Li'
   gitee_id: 'ffrog'
   github_id: 'fffrog'
   repos:
-  - https://gitee.com/openpackage/kolla
   # Same as above- https://gitee.com/openeuler/openstack
+  - https://gitee.com/openpackage/kolla
+  - https://gitee.com/openpackage/kolla-ansible
+  - https://gitee.com/src-openeuler/openstack-kolla-plugin
+  - https://gitee.com/src-openeuler/openstack-kolla-ansible-plugin
   repos_all_branches:
   - https://gitee.com/src-openeuler/openstack-cinder
   - https://gitee.com/src-openeuler/openstack-glance
-  - https://gitee.com/src-openeuler/python-gitdb
-  - https://gitee.com/src-openeuler/python-smmap
-  - https://gitee.com/src-openeuler/python-aniso8601
-  - https://gitee.com/src-openeuler/python-pyperclip
-  - https://gitee.com/src-openeuler/python-wcwidth
-  - https://gitee.com/src-openeuler/python-cliff
+  - https://gitee.com/src-openeuler/openstack-horizon
+  - https://gitee.com/src-openeuler/openstack-ironic
+  - https://gitee.com/src-openeuler/openstack-keystone
 
 - name: 'huangtianhua'
   gitee_id: 'huangtianhua'
