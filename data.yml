@@ -206,6 +206,13 @@ users:
   repos:
   - https://github.com/kunpengcompute/arm-landscape
   - https://gitee.com/src-openeuler/libmetal
+  - https://github.com/opensourceways/playground-courses
+  - https://github.com/Linaro/ecosystemlandscape
+  - https://github.com/omnibuildplatform/omni-imager
+  - https://github.com/omnibuildplatform/omni-insight
+  - https://github.com/omnibuildplatform/docs
+  - https://gitee.com/opengauss/openGauss-webclient
+  - https://gitee.com/openeuler/lfs-course
 
 - name: 'Jiawei Li'
   gitee_id: 'ffrog'
