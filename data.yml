@@ -216,6 +216,8 @@ users:
   - https://gitee.com/openpackage/kolla-ansible
   - https://gitee.com/src-openeuler/openstack-kolla-plugin
   - https://gitee.com/src-openeuler/openstack-kolla-ansible-plugin
+  - https://gitee.com/openeuler/openeuler-docker-images
+  - https://github.com/microsoft/onnxruntime
   repos_all_branches:
   - https://gitee.com/src-openeuler/openstack-cinder
   - https://gitee.com/src-openeuler/openstack-glance
