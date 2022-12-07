@@ -408,3 +408,12 @@ users:
   - https://github.com/opensourceways/playground-images
   - https://gitee.com/opengauss/playground-course
   - https://gitee.com/opengauss/openGauss-webclient
+- name: 'Weifeng Wang'
+  gitee_id: 'wang-weifeng21'
+  github_id: 'hiddenvillage'
+  repos:
+  - https://github.com/opensourceways/discourse
+  - https://gitee.com/opensourceway/EaseCheck
+  - https://gitee.com/opensourceway/om-collections
+  repos_all_branches:
+  - https://github.com/opensourceways/discourse_docker
