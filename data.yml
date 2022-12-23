@@ -202,17 +202,11 @@ users:
   - https://github.com/openstack/project-config
   - https://github.com/openstack/kolla-ansible
   - https://github.com/openstack/diskimage-builder
+  - https://github.com/microsoft/onnxruntime
+  - https://github.com/openstack/devstack
   repos_all_branches:
-  - https://github.com/opencurve/curve
   - https://gitee.com/openeuler/openstack-plugin
-  - https://gitee.com/src-openeuler/openstack-cinder
-  - https://gitee.com/src-openeuler/openstack-horizon
-  - https://gitee.com/src-openeuler/openstack-ironic
-  - https://gitee.com/src-openeuler/openstack-keystone
-  - https://gitee.com/src-openeuler/openstack-neutron
   - https://gitee.com/src-openeuler/openstack-nova
-  - https://gitee.com/src-openeuler/openstack-placement
-  - https://gitee.com/src-openeuler/openstack-trove
 
 - name: 'Zhenyu Zheng'
   gitee_id: 'zhengzhenyu'
