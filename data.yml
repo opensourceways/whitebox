@@ -423,3 +423,11 @@ users:
   - https://gitee.com/opensourceway/om-collections
   repos_all_branches:
   - https://github.com/opensourceways/discourse_docker
+- name: 'Yuanke Zhong'
+  gitee_id: 'drizzlezyk'
+  github_id: 'drizzlezyk'
+  repos:
+  - https://github.com/drizzlezyk/MindSpore-competition
+  - https://github.com/drizzlezyk/xihe_tutorial
+  - https://github.com/drizzlezyk/CodeGeeX-deploy
+  - https://github.com/drizzlezyk/pangu-deploy
