@@ -83,6 +83,12 @@ users:
   - https://github.com/opensourceways/sync-repo-file
   - https://github.com/opensourceways/sync-file-server
   - https://github.com/opensourceways/gofpdf
+  - https://github.com/opensourceways/xihe-server
+  - https://github.com/opensourceways/xihe-sync-repo
+  - https://github.com/opensourceways/xihe-grpc-protocol
+  - https://github.com/opensourceways/xihe-training-center
+  - https://github.com/opensourceways/xihe-inference-evaluate
+  - https://github.com/opensourceways/xihe-gitlab-hook-delivery
 
 - name: 'Peng Lei'
   gitee_id: 'PYinuo'
