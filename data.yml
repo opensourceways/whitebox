@@ -196,6 +196,12 @@ users:
   - https://gitee.com/openeuler-practice-courses/nankai_university_2021
   - https://gitee.com/openeuler-practice-courses/peking_university_2021
   - https://gitee.com/openeuler-practice-courses/lfs-course
+  # Open-Infra-Ops
+  - https://github.com/Open-Infra-Ops/huaweicloud-tools
+  - https://github.com/Open-Infra-Ops/Security-Tools/
+  - https://github.com/Open-Infra-Ops/jenkins-tools
+  - https://github.com/Open-Infra-Ops/docs
+  - https://github.com/Open-Infra-Ops/sbom_server_dev
 
 
 - name: 'Xiyuan Wang'
