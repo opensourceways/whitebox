@@ -418,6 +418,10 @@ users:
   - https://github.com/opensourceways/playground-images
   - https://gitee.com/opengauss/playground-course
   - https://gitee.com/opengauss/openGauss-webclient
+  - https://gitee.com/openeuler/openeuler-docker-images
+  repos_all_branches:
+  - https://github.com/mindsdb/mindsdb
+  - https://gitee.com/opengauss/openGauss-wasm
 - name: 'Weifeng Wang'
   gitee_id: 'wang-weifeng21'
   github_id: 'hiddenvillage'
