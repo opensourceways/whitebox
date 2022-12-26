@@ -1,0 +1,18 @@
+users:
+- name: 'Yikun Jiang'
+  gitee_id: 'yikunkero'
+  github_id: 'Yikun'
+  # Recommended, only fetch the default branch of repos
+  repos:
+  - https://github.com/apache/spark
+  - https://github.com/apache/spark-website
+  - https://github.com/apache/spark-docker
+  - https://github.com/ray-project/ray
+  - https://github.com/delta-io/delta
+  - https://github.com/apache/hudi
+  - https://github.com/apache/iceberg
+  - https://github.com/apache/flink
+
+  # Optional, fetch all branches of repos
+  repos_all_branches:
+  # - https://github.com/apache/spark

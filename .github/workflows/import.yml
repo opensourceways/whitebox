@@ -1,22 +1,16 @@
 name: Data sync
 
 on:
-  schedule:
-    # Runs at 0,2,4,6...,22th hour every day (every 2 hours)
-    - cron:  '0 */2 * * *'
-
   workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v2
+      - uses: actions/checkout@v3
 
       - name: Set up Python
-        uses: actions/setup-python@v2
-        with:
-          python-version: '3.6'
+        uses: actions/setup-python@v4
 
       - name: Install
         run: |

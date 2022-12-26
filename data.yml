@@ -8,7 +8,7 @@ users:
   - https://github.com/Yikun/repoinsight
   - https://gitee.com/opensourceway/om-bigdata
   - https://github.com/opensourceways/whitebox
-  - https://github.com/NetEase/kyuubi
+  - https://github.com/apache/kyuubi
   - https://github.com/Yikun/annotation-type-checker
   - https://github.com/Yikun/repoinsight
   - https://github.com/tinyms-ai/tinyms
@@ -21,6 +21,11 @@ users:
   - https://gitee.com/src-openeuler/pig
   - https://gitee.com/src-openeuler/tez
   - https://gitee.com/src-openeuler/phoenix
+  - https://github.com/apache/spark-docker
+  - https://github.com/openhpc/ohpc
+  - https://github.com/volcano-sh/volcano
+  - https://gitee.com/openeuler/openeuler-docker-images
+  - https://github.com/rpm-software-management/mock
   # Optional, fetch all branches of repos
   repos_all_branches:
   - https://github.com/apache/spark
@@ -33,13 +38,26 @@ users:
   - https://github.com/opensourceways/infra-common
   - https://gitee.com/opensourceway/om-kafka
   - https://gitee.com/opensourceway/om-docs
+  - https://gitee.com/opensourceway/om-deployment
+  - https://gitee.com/opensourceway/om-JenkinsLog
+  - https://gitee.com/opensourceway/om-data
+  - https://gitee.com/opensourceway/om-sdk-python
+  - https://gitee.com/opensourceway/om-bigdata
+  - https://gitee.com/opensourceway/om-reptile
+  - https://gitee.com/opensourceway/om-kafka
+  - https://gitee.com/opensourceway/oneid
   - https://gitee.com/opengauss/infra
   - https://gitee.com/opensourceway/om-template
   - https://github.com/opengauss-mirror/openGauss-third_party
+  - https://gitee.com/opengauss/playground-course
+  - https://gitee.com/opensourceway/om-sdk-python
+  - https://gitee.com/opengauss/release-management
 - name: 'Zeng Chen'
   gitee_id: 'zengchen1024'
   github_id: 'zengchen1024'
   repos:
+  - https://github.com/omnibuildplatform/omni-scheduler
+  - https://github.com/zengchen1024/obs-worker
   - https://github.com/opensourceways/test-infra
   - https://github.com/opensourceways/app-cla-server
   - https://github.com/opensourceways/yabot
@@ -65,6 +83,12 @@ users:
   - https://github.com/opensourceways/sync-repo-file
   - https://github.com/opensourceways/sync-file-server
   - https://github.com/opensourceways/gofpdf
+  - https://github.com/opensourceways/xihe-server
+  - https://github.com/opensourceways/xihe-sync-repo
+  - https://github.com/opensourceways/xihe-grpc-protocol
+  - https://github.com/opensourceways/xihe-training-center
+  - https://github.com/opensourceways/xihe-inference-evaluate
+  - https://github.com/opensourceways/xihe-gitlab-hook-delivery
 
 - name: 'Peng Lei'
   gitee_id: 'PYinuo'
@@ -119,7 +143,16 @@ users:
   repos_all_branches:
   # Distrobuilder used for lxd image creation
   - https://github.com/opensourceways/distrobuilder
-
+  # omni build platform orchestrator which used for image job management
+  - https://github.com/omnibuildplatform/omni-orchestrator
+  # omni build platform repository which used for image store and distribution
+  - https://github.com/omnibuildplatform/omni-repository
+  # Copr used for build packages for different distros
+  - https://github.com/fedora-copr/copr
+  # resalloc-kubernetes is a Rust CMD used for allocating pod resource for resalloc framework which will be used in COPR.
+  - https://github.com/TommyLike/resalloc-kubernetes
+  # RPM rs is a library used for rpm generating, signing and signature verification.
+  - https://github.com/rpm-rs/rpm
 
 - name: 'George Cao'
   gitee_id: 'georgecao'
@@ -171,20 +204,15 @@ users:
   repos:
   # Same as above- https://gitee.com/openeuler/openstack
   - https://gitee.com/openeuler/pyisula
-  - https://gitee.com/openpackage/qemu
-  - https://gitee.com/openpackage/kolla
-  - https://gitee.com/openpackage/kolla-ansible
+  - https://gitee.com/openeuler/openstack
   - https://github.com/openstack/project-config
+  - https://github.com/openstack/kolla-ansible
+  - https://github.com/openstack/diskimage-builder
+  - https://github.com/microsoft/onnxruntime
+  - https://github.com/openstack/devstack
   repos_all_branches:
-  - https://github.com/opencurve/curve
-  - https://gitee.com/src-openeuler/openstack-cinder
-  - https://gitee.com/src-openeuler/openstack-horizon
-  - https://gitee.com/src-openeuler/openstack-ironic
-  - https://gitee.com/src-openeuler/openstack-keystone
-  - https://gitee.com/src-openeuler/openstack-neutron
+  - https://gitee.com/openeuler/openstack-plugin
   - https://gitee.com/src-openeuler/openstack-nova
-  - https://gitee.com/src-openeuler/openstack-placement
-  - https://gitee.com/src-openeuler/openstack-trove
 
 - name: 'Zhenyu Zheng'
   gitee_id: 'zhengzhenyu'
@@ -192,6 +220,13 @@ users:
   repos:
   - https://github.com/kunpengcompute/arm-landscape
   - https://gitee.com/src-openeuler/libmetal
+  - https://github.com/opensourceways/playground-courses
+  - https://github.com/Linaro/ecosystemlandscape
+  - https://github.com/omnibuildplatform/omni-imager
+  - https://github.com/omnibuildplatform/omni-insight
+  - https://github.com/omnibuildplatform/docs
+  - https://gitee.com/opengauss/openGauss-webclient
+  - https://gitee.com/openeuler/lfs-course
 
 - name: 'Jiawei Li'
   gitee_id: 'ffrog'
@@ -202,6 +237,8 @@ users:
   - https://gitee.com/openpackage/kolla-ansible
   - https://gitee.com/src-openeuler/openstack-kolla-plugin
   - https://gitee.com/src-openeuler/openstack-kolla-ansible-plugin
+  - https://gitee.com/openeuler/openeuler-docker-images
+  - https://github.com/microsoft/onnxruntime
   repos_all_branches:
   - https://gitee.com/src-openeuler/openstack-cinder
   - https://gitee.com/src-openeuler/openstack-glance
@@ -374,3 +411,31 @@ users:
   - https://github.com/theopenlab/openlab-zuul-jobs
   - https://github.com/theopenlab/publications
   - https://github.com/theopenlab/governance
+- name: 'Guofeng He'
+  gitee_id: 'Nelson-He'
+  github_id: 'Nelson-He'
+  repos:
+  - https://github.com/opensourceways/playground-images
+  - https://gitee.com/opengauss/playground-course
+  - https://gitee.com/opengauss/openGauss-webclient
+  - https://gitee.com/openeuler/openeuler-docker-images
+  repos_all_branches:
+  - https://github.com/mindsdb/mindsdb
+  - https://gitee.com/opengauss/openGauss-wasm
+- name: 'Weifeng Wang'
+  gitee_id: 'wang-weifeng21'
+  github_id: 'hiddenvillage'
+  repos:
+  - https://github.com/opensourceways/discourse
+  - https://gitee.com/opensourceway/EaseCheck
+  - https://gitee.com/opensourceway/om-collections
+  repos_all_branches:
+  - https://github.com/opensourceways/discourse_docker
+- name: 'Yuanke Zhong'
+  gitee_id: 'drizzlezyk'
+  github_id: 'drizzlezyk'
+  repos:
+  - https://github.com/drizzlezyk/MindSpore-competition
+  - https://github.com/drizzlezyk/xihe_tutorial
+  - https://github.com/drizzlezyk/CodeGeeX-deploy
+  - https://github.com/drizzlezyk/pangu-deploy
