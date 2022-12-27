@@ -410,7 +410,10 @@ users:
 - name: 'RuiChen'
   gitee_id: 'kiwik'
   github_id: 'kiwik'
-  repos:
+  repos_all_branches:
+  # OpenStack软件包对比工具
+  # AI目录下是ONNXRuntime在ARM和x86 openEuler容器的
+  # 性能对比测试环境，配合.cirrus.yml PR触发
   - https://github.com/kiwik/os-version-checker
   - https://gitee.com/openeuler/openstack
   - https://gitee.com/openeuler/community
@@ -418,6 +421,16 @@ users:
   - https://github.com/theopenlab/openlab-zuul-jobs
   - https://github.com/theopenlab/publications
   - https://github.com/theopenlab/governance
+  # 大数据 Native Engine 优化 上游项目
+  - https://github.com/oap-project/cloudtik
+  - https://github.com/oap-project/gluten
+  - https://github.com/oap-project/gazelle_plugin
+  # 大数据 Native Engine 优化 合入上游前的本地分支PR
+  - https://github.com/kiwik/cloudtik
+  - https://github.com/kiwik/gluten
+  - https://github.com/kiwik/gazelle_plugin
+  # GithubAction aarch64 on x86
+  - https://github.com/uraimo/run-on-arch-action
 - name: 'Guofeng He'
   gitee_id: 'Nelson-He'
   github_id: 'Nelson-He'
