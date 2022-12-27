@@ -177,6 +177,7 @@ users:
   - https://gitee.com/openeuler/infrastructure
   - https://gitee.com/openeuler/community
   - https://gitee.com/openeuler/ci-bot
+  - https://gitee.com/openeuler/TC
   # Same as above- https://gitee.com/openeuler/docs
   - https://gitee.com/openeuler/website
   - https://gitee.com/openeuler/release-management
