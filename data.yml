@@ -245,6 +245,7 @@ users:
   - https://github.com/omnibuildplatform/docs
   - https://gitee.com/opengauss/openGauss-webclient
   - https://gitee.com/openeuler/lfs-course
+  - https://gitee.com/openeuler/eulerlauncher
 
 - name: 'Jiawei Li'
   gitee_id: 'ffrog'
