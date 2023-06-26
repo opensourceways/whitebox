@@ -258,6 +258,9 @@ users:
   - https://gitee.com/src-openeuler/openstack-kolla-ansible-plugin
   - https://gitee.com/openeuler/openeuler-docker-images
   - https://github.com/microsoft/onnxruntime
+  - https://github.com/pytorch/pytorch
+  - https://gitee.com/ascend/pytorch
+  - https://github.com/Linaro/ecosystemlandscape
   repos_all_branches:
   - https://gitee.com/src-openeuler/openstack-cinder
   - https://gitee.com/src-openeuler/openstack-glance
