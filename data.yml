@@ -354,3 +354,8 @@ users:
   - https://github.com/opensourceways/infra-openeuler
   - https://github.com/opensourceways/infra-common/
   - https://github.com/opensourceways/copr_docker
+- name: "Hua Fengchun"
+  gitee_id: "huafengchun"
+  github_id: "hipudding"
+  repos:
+  - https://github.com/microsoft/DeepSpeed
