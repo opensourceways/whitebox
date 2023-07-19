@@ -354,3 +354,9 @@ users:
   - https://github.com/opensourceways/infra-openeuler
   - https://github.com/opensourceways/infra-common/
   - https://github.com/opensourceways/copr_docker
+
+- name: 'Wendong Cao'
+  gitee_id: 'devin-cwd'
+  github_id: 'DevinCarl'
+  repos:
+  - https://gitee.com/openeuler/opendesign-components
