@@ -27,7 +27,7 @@ users:
   - https://github.com/lammps/lammps
   - https://github.com/amberframework/amber
   - https://github.com/DPDK/dpdk
-
+  - https://github.com/lustre/lustre-release
   # Optional, fetch all branches of repos
   repos_all_branches:
   # - https://github.com/apache/spark

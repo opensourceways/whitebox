@@ -354,8 +354,30 @@ users:
   - https://github.com/opensourceways/infra-openeuler
   - https://github.com/opensourceways/infra-common/
   - https://github.com/opensourceways/copr_docker
+
 - name: "Hua Fengchun"
   gitee_id: "huafengchun"
   github_id: "hipudding"
   repos:
   - https://github.com/microsoft/DeepSpeed
+  - https://github.com/opencv/opencv_contrib
+  - https://github.com/opencv/opencv
+
+- name: 'Zhuangbang Gong'
+  gitee_id: 'gzbang'
+  github_id: 'gzbang'
+  repos:
+  - https://gitee.com/openeuler/openEuler-portal
+  - https://gitee.com/opengauss/website
+  - https://gitee.com/openlookeng/website-v2
+  - https://gitee.com/mindspore/mindspore.github.io
+  - https://gitee.com/openeuler/opendesign-miniprogram
+  - https://gitee.com/openeuler/opendesign-templates
+  - https://gitee.com/openeuler/opendesign-datastat
+  - https://gitee.com/openeuler/opendesign-internship
+  - https://gitee.com/mindspore/xihe-website
+  repos_all_branches:
+  - https://gitee.com/openeuler/opendesign-components
+  - https://gitee.com/mindspore/website-v2
+  - https://github.com/opensourceways/playground-app
+  - https://gitee.com/openeuler/opendesign
