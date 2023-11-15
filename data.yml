@@ -370,12 +370,15 @@ users:
   - https://github.com/opensourceways/copr_docker
 
 - name: "Hua Fengchun"
-  gitee_id: "huafengchun"
+  gitee_id: "hipudding"
   github_id: "hipudding"
   repos:
   - https://github.com/microsoft/DeepSpeed
   - https://github.com/opencv/opencv_contrib
   - https://github.com/opencv/opencv
+  - https://github.com/opencv/ci-gha-workflow
+  - https://github.com/opencv-infrastructure/opencv-gha-dockerfile/pull/24
+  - https://github.com/Linaro/ecosystemlandscape
 
 - name: 'Zhuangbang Gong'
   gitee_id: 'gzbang'
