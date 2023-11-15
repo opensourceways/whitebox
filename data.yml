@@ -426,3 +426,18 @@ users:
   - https://gitee.com/src-openeuler/gnocchi
   repos_all_branches:
   - https://gitee.com/src-openeuler/python-suds-jurko
+
+- name: 'Sibo Zhang'
+  gitee_id: 'zhangsibo1129'
+  github_id: 'zhangsibo1129'
+  repos:
+  - https://github.com/microsoft/onnxruntime
+  - https://github.com/Ascend/Ascend-CI
+  - https://github.com/Linaro/ecosystemlandscape
+  - https://github.com/lm-sys/FastChat
+  - https://github.com/cosdt/dockerfiles
+  - https://github.com/huggingface/text-generation-inference
+  - https://github.com/huggingface/blog
+  - https://github.com/huggingface/accelerate
+  - https://github.com/openmerlin/merlin
+  - https://github.com/zhangsibo1129/hf-ci-demo
