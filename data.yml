@@ -438,3 +438,10 @@ users:
   - https://gitee.com/opengauss/openGauss-User-Group
   repos_all_branches:
   - https://gitee.com/opengauss/website
+
+- name: 'Mengqing Cao'
+  gitee_id: 'green89757'
+  github_id: 'MengqingCao'
+  repos:
+  - https://github.com/opencv/opencv_contrib
+  - https://github.com/opencv/opencv
