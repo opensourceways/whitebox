@@ -379,7 +379,7 @@ users:
   - https://github.com/opencv/opencv_contrib
   - https://github.com/opencv/opencv
   - https://github.com/opencv/ci-gha-workflow
-  - https://github.com/opencv-infrastructure/opencv-gha-dockerfile/pull/24
+  - https://github.com/opencv-infrastructure/opencv-gha-dockerfile
   - https://github.com/Linaro/ecosystemlandscape
 
 - name: 'Zhuangbang Gong'
@@ -441,3 +441,15 @@ users:
   - https://github.com/huggingface/accelerate
   - https://github.com/openmerlin/merlin
   - https://github.com/zhangsibo1129/hf-ci-demo
+
+- name: 'xiangru mei'
+  gitee_id: 'xiangrumei'
+  github_id: 'xiangrumei'
+  repos:
+  - https://gitee.com/opengauss/community
+  - https://gitee.com/opengauss/tc
+  - https://gitee.com/opengauss/board
+  - https://gitee.com/opengauss/openGauss-sandbox
+  - https://gitee.com/opengauss/openGauss-User-Group
+  repos_all_branches:
+  - https://gitee.com/opengauss/website
