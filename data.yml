@@ -280,6 +280,8 @@ users:
   - https://github.com/pytorch/pytorch
   - https://gitee.com/ascend/pytorch
   - https://github.com/Linaro/ecosystemlandscape
+  - https://github.com/cosdt/dockerfiles
+  - https://github.com/pytorch/tutorials
   repos_all_branches:
   - https://gitee.com/src-openeuler/openstack-cinder
   - https://gitee.com/src-openeuler/openstack-glance
