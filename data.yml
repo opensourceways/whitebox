@@ -263,8 +263,9 @@ users:
   - https://github.com/omnibuildplatform/docs
   - https://gitee.com/opengauss/openGauss-webclient
   - https://gitee.com/openeuler/lfs-course
-  - https://gitee.com/openeuler/eulerlauncher
   - https://github.com/TheOmniVirt/omnivirt
+  repos_all_branches:
+  - https://gitee.com/openeuler/eulerlauncher
 
 - name: 'Jiawei Li'
   gitee_id: 'ffrog'
@@ -445,3 +446,4 @@ users:
   repos:
   - https://github.com/opencv/opencv_contrib
   - https://github.com/opencv/opencv
+
