@@ -419,5 +419,6 @@ users:
   - https://gitee.com/src-openeuler/networking-generic-switch
   - https://gitee.com/src-openeuler/networking-baremetal
   - https://gitee.com/src-openeuler/gnocchi
+  - https://gitee.com/tzing_t/note
   repos_all_branches:
   - https://gitee.com/src-openeuler/python-suds-jurko
