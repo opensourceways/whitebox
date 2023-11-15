@@ -426,3 +426,15 @@ users:
   - https://gitee.com/src-openeuler/gnocchi
   repos_all_branches:
   - https://gitee.com/src-openeuler/python-suds-jurko
+
+- name: 'xiangru mei'
+  gitee_id: 'xiangrumei'
+  github_id: 'xiangrumei'
+  repos:
+  - https://gitee.com/opengauss/community
+  - https://gitee.com/opengauss/tc
+  - https://gitee.com/opengauss/board
+  - https://gitee.com/opengauss/openGauss-sandbox
+  - https://gitee.com/opengauss/openGauss-User-Group
+  repos_all_branches:
+  - https://gitee.com/opengauss/website
