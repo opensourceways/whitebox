@@ -470,3 +470,14 @@ users:
   - https://gitee.com/openeuler/community
   - https://gitee.com/openeuler/eulerpublisher
   - https://github.com/Linaro/ecosystemlandscape
+
+- name: 'Shuqiao Li'
+  gitee_id: 'celestialli'
+  github_id: 'celestialli'
+  alias:
+  - "Li Shuqiao"
+  - "Shuqiao Li"
+  repos:
+  - https://huggingface.co/spaces/ascend-ai/vicuna-on-ascend
+  - https://github.com/openmerlin/merlin
+  - https://github.com/volcano-sh/volcano
