@@ -462,3 +462,11 @@ users:
   - https://github.com/opencv/opencv_contrib
   - https://github.com/opencv/opencv
 
+- name: 'Weijun Lu'
+  gitee_id: 'lu-wei-army'
+  github_id: 'wjunLu'
+  repos:
+  - https://gitee.com/openeuler/TC
+  - https://gitee.com/openeuler/community
+  - https://gitee.com/openeuler/eulerpublisher
+  - https://github.com/Linaro/ecosystemlandscape
