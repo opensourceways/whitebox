@@ -441,6 +441,8 @@ users:
   - https://github.com/huggingface/blog
   - https://github.com/huggingface/accelerate
   - https://github.com/openmerlin/merlin
+  - https://github.com/npu-ci/llm-tool-ci
+  # 迁移到团队仓
   - https://github.com/zhangsibo1129/hf-ci-demo
 
 - name: 'xiangru mei'
