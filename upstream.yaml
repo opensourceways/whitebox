@@ -55,6 +55,14 @@ users:
   - https://github.com/PaddlePaddle/Paddle
   - https://github.com/kubernetes/kubernetes
   - https://github.com/kubernetes/minikube
+  - https://github.com/Dao-AILab/flash-attention
+  - https://github.com/microsoft/DeepSpeed
+  - https://github.com/NVIDIA/Megatron-LM
+  - https://github.com/NVIDIA/FasterTransformer
+  - https://github.com/triton-inference-server/server
+  - https://github.com/modelscope/modelscope
+  - https://github.com/qemu/qemu
+  - https://github.com/libvirt/libvirt
 
   # Optional, fetch all branches of repos
   repos_all_branches:
