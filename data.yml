@@ -470,3 +470,11 @@ users:
   - https://gitee.com/openeuler/community
   - https://gitee.com/openeuler/eulerpublisher
   - https://github.com/Linaro/ecosystemlandscape
+
+- name: 'Shuai Wang'
+  gitee_id: 'xiaozhunren'
+  github_id: 'wangshuai09'
+  repos:
+  - https://github.com/lm-sys/FastChat
+  - https://github.com/npu-ci/llm-tool-ci
+  - https://github.com/microsoft/DeepSpeed
