@@ -16,9 +16,11 @@ def _get_user_id(user, repo):
         user_id = user.get('github_id', '')
     elif 'gitlab.com' in repo:
         user_id = user.get('gitlab_id', '')
+    elif 'huggingface.co' in repo:
+        user_id = user.get('hf_id', '')
     if not user_id:
         print("ERROR: Can't load the (%s) user id, "
-              "Pls specify %s (gitee|github|gitlab)_id." % (user_name, repo))
+              "Pls specify %s (gitee|github|gitlab|hf)_id." % (user_name, repo))
         sys.exit(1)
     return user_id
 

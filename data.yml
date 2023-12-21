@@ -28,9 +28,11 @@ users:
   - https://github.com/rpm-software-management/mock
   - https://gitee.com/openeuler/TC
   - https://github.com/bioconda/bioconda-utils
+  - https://github.com/cosdt/dockerfiles
   # Optional, fetch all branches of repos
   repos_all_branches:
   - https://github.com/apache/spark
+  - https://github.com/cosdt/cosdt.github.io
 - name: 'Jun Zhong'
   gitee_id: 'zhongjun2'
   github_id: 'zhongjun2'
@@ -55,16 +57,29 @@ users:
   - https://gitee.com/opensourceway/om-sdk-python
   - https://gitee.com/opengauss/release-management
   - https://gitee.com/opensourceway/easyeditor-server
+  - https://github.com/opensourceways/datastat-server
+  - https://github.com/opensourceways/DB-GPT
+  - https://gitee.com/opensourceway/easymodel
+  - https://gitee.com/opensourceway/easymodel-plugins
+
 - name: 'wangweifeng'
   gitee_id: 'wang-weifeng21'
   github_id: 'hiddenvillage'
   repos:
   - https://gitee.com/opensourceway/easyeditor-server
-  - https://github.com/opensourceways/discourse-translator/pulls
-  - https://github.com/opensourceways/discourse-oauth2-basic/pulls
-  - https://github.com/opensourceways/discourse_docker/pulls
-  - https://github.com/opensourceways/oneid-server
+  - https://github.com/opensourceways/discourse-translator
+  - https://github.com/opensourceways/discourse-oauth2-basic
   - https://github.com/opensourceways/om-docs
+  - https://github.com/opensourceways/DB-GPT
+  - https://github.com/opensourceways/datastat-server
+  - https://gitee.com/opensourceway/discourse-easecheck
+  - https://gitee.com/opensourceway/EaseSearch
+  - https://gitee.com/opensourceway/easymodel
+  repos_all_branches:
+  - https://github.com/opensourceways/discourse_docker
+  - https://github.com/opensourceways/oneid-server
+  - https://gitee.com/opensourceway/om-webserver
+
 - name: 'zhongyuanke'
   gitee_id: 'drizzlezyk'
   github_id: 'drizzlezyk'
@@ -249,8 +264,9 @@ users:
   - https://github.com/omnibuildplatform/docs
   - https://gitee.com/opengauss/openGauss-webclient
   - https://gitee.com/openeuler/lfs-course
-  - https://gitee.com/openeuler/eulerlauncher
   - https://github.com/TheOmniVirt/omnivirt
+  repos_all_branches:
+  - https://gitee.com/openeuler/eulerlauncher
 
 - name: 'Jiawei Li'
   gitee_id: 'ffrog'
@@ -266,6 +282,8 @@ users:
   - https://github.com/pytorch/pytorch
   - https://gitee.com/ascend/pytorch
   - https://github.com/Linaro/ecosystemlandscape
+  - https://github.com/cosdt/dockerfiles
+  - https://github.com/pytorch/tutorials
   repos_all_branches:
   - https://gitee.com/src-openeuler/openstack-cinder
   - https://gitee.com/src-openeuler/openstack-glance
@@ -360,3 +378,127 @@ users:
   github_id: 'DevinCarl'
   repos:
   - https://gitee.com/openeuler/opendesign-components
+
+- name: "Hua Fengchun"
+  gitee_id: "hipudding"
+  github_id: "hipudding"
+  repos:
+  - https://github.com/microsoft/DeepSpeed
+  - https://github.com/opencv/opencv_contrib
+  - https://github.com/opencv/opencv
+  - https://github.com/opencv/ci-gha-workflow
+  - https://github.com/opencv-infrastructure/opencv-gha-dockerfile
+  - https://github.com/Linaro/ecosystemlandscape
+
+- name: 'Zhuangbang Gong'
+  gitee_id: 'gzbang'
+  github_id: 'gzbang'
+  repos:
+  - https://gitee.com/openeuler/openEuler-portal
+  - https://gitee.com/opengauss/website
+  - https://gitee.com/openlookeng/website-v2
+  - https://gitee.com/mindspore/mindspore.github.io
+  - https://gitee.com/openeuler/opendesign-miniprogram
+  - https://gitee.com/openeuler/opendesign-templates
+  - https://gitee.com/openeuler/opendesign-datastat
+  - https://gitee.com/openeuler/opendesign-internship
+  - https://gitee.com/mindspore/xihe-website
+  repos_all_branches:
+  - https://gitee.com/openeuler/opendesign-components
+  - https://gitee.com/mindspore/website-v2
+  - https://github.com/opensourceways/playground-app
+  - https://gitee.com/openeuler/opendesign
+
+- name: 'Ting Zheng'
+  gitee_id: 'tzing_t'
+  github_id: 'tzing0013'
+  repos:
+  - https://gitee.com/openeuler/openstack
+  - https://gitee.com/openeuler/release-management
+  - https://gitee.com/src-openeuler/python-storage-interfaces
+  - https://gitee.com/src-openeuler/python-opentracing
+  - https://gitee.com/src-openeuler/python-bunch
+  - https://gitee.com/src-openeuler/python-tooz
+  - https://gitee.com/src-openeuler/python-taskflow
+  - https://gitee.com/src-openeuler/python-sphinx-feature-classification
+  - https://gitee.com/src-openeuler/python-rsd-lib
+  - https://gitee.com/src-openeuler/python-rbd-iscsi-client
+  - https://gitee.com/src-openeuler/python-pypowervm
+  - https://gitee.com/src-openeuler/python-proliantutils
+  - https://gitee.com/src-openeuler/python-murano-pkg-check
+  - https://gitee.com/src-openeuler/python-infinisdk
+  - https://gitee.com/src-openeuler/python-cotyledon
+  - https://gitee.com/src-openeuler/python-automaton
+  - https://gitee.com/src-openeuler/networking-generic-switch
+  - https://gitee.com/src-openeuler/networking-baremetal
+  - https://gitee.com/src-openeuler/gnocchi
+  repos_all_branches:
+  - https://gitee.com/src-openeuler/python-suds-jurko
+
+- name: 'Sibo Zhang'
+  gitee_id: 'zhangsibo1129'
+  github_id: 'zhangsibo1129'
+  repos:
+  - https://github.com/microsoft/onnxruntime
+  - https://github.com/Ascend/Ascend-CI
+  - https://github.com/Linaro/ecosystemlandscape
+  - https://github.com/lm-sys/FastChat
+  - https://github.com/cosdt/dockerfiles
+  - https://github.com/huggingface/text-generation-inference
+  - https://github.com/huggingface/blog
+  - https://github.com/huggingface/accelerate
+  - https://github.com/openmerlin/merlin
+  - https://github.com/npu-ci/llm-tool-ci
+  # 迁移到团队仓
+  - https://github.com/zhangsibo1129/hf-ci-demo
+
+- name: 'xiangru mei'
+  gitee_id: 'xiangrumei'
+  github_id: 'xiangrumei'
+  repos:
+  - https://gitee.com/opengauss/community
+  - https://gitee.com/opengauss/tc
+  - https://gitee.com/opengauss/board
+  - https://gitee.com/opengauss/openGauss-sandbox
+  - https://gitee.com/opengauss/openGauss-User-Group
+  repos_all_branches:
+  - https://gitee.com/opengauss/website
+
+- name: 'Mengqing Cao'
+  gitee_id: 'green89757'
+  github_id: 'MengqingCao'
+  repos:
+  - https://github.com/opencv/opencv_contrib
+  - https://github.com/opencv/opencv
+
+- name: 'Weijun Lu'
+  gitee_id: 'lu-wei-army'
+  github_id: 'wjunLu'
+  repos:
+  - https://gitee.com/openeuler/TC
+  - https://gitee.com/openeuler/community
+  - https://gitee.com/openeuler/eulerpublisher
+  - https://github.com/Linaro/ecosystemlandscape
+
+- name: 'Shuqiao Li'
+  gitee_id: 'celestialli'
+  github_id: 'celestialli'
+  hf_id: 'celestialli'
+  alias:
+  - "Li Shuqiao"
+  - "Shuqiao Li"
+  repos:
+  - https://gitee.com/kunpengcompute/om-data
+  - https://github.com/opensourceways/whitebox
+  - https://gitee.com/ascend/MindSeed
+  - https://github.com/openmerlin/merlin
+  - https://github.com/volcano-sh/volcano
+  - https://huggingface.co/spaces/ascend-ai/vicuna-on-ascend
+
+- name: 'Shuai Wang'
+  gitee_id: 'xiaozhunren'
+  github_id: 'wangshuai09'
+  repos:
+  - https://github.com/lm-sys/FastChat
+  - https://github.com/npu-ci/llm-tool-ci
+  - https://github.com/microsoft/DeepSpeed
