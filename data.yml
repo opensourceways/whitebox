@@ -32,6 +32,7 @@ users:
   # Optional, fetch all branches of repos
   repos_all_branches:
   - https://github.com/apache/spark
+  - https://github.com/cosdt/cosdt.github.io
 - name: 'Jun Zhong'
   gitee_id: 'zhongjun2'
   github_id: 'zhongjun2'
@@ -441,6 +442,8 @@ users:
   - https://github.com/huggingface/blog
   - https://github.com/huggingface/accelerate
   - https://github.com/openmerlin/merlin
+  - https://github.com/npu-ci/llm-tool-ci
+  # 迁移到团队仓
   - https://github.com/zhangsibo1129/hf-ci-demo
 
 - name: 'xiangru mei'
@@ -471,6 +474,20 @@ users:
   - https://gitee.com/openeuler/eulerpublisher
   - https://github.com/Linaro/ecosystemlandscape
 
+- name: 'Shuqiao Li'
+  gitee_id: 'celestialli'
+  github_id: 'celestialli'
+  alias:
+  - "Li Shuqiao"
+  - "Shuqiao Li"
+  repos:
+  - https://gitee.com/kunpengcompute/om-data
+  - https://github.com/opensourceways/whitebox
+  - https://gitee.com/ascend/MindSeed
+  - https://github.com/openmerlin/merlin
+  - https://github.com/volcano-sh/volcano
+  - https://huggingface.co/spaces/ascend-ai/vicuna-on-ascend
+
 - name: 'Shuai Wang'
   gitee_id: 'xiaozhunren'
   github_id: 'wangshuai09'
@@ -478,3 +495,4 @@ users:
   - https://github.com/lm-sys/FastChat
   - https://github.com/npu-ci/llm-tool-ci
   - https://github.com/microsoft/DeepSpeed
+

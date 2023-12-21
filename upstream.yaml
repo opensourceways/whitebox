@@ -31,6 +31,42 @@ users:
   - https://github.com/opencv/opencv
   - https://github.com/opencv/opencv_contrib
   - https://github.com/huggingface/transformers
+  - https://github.com/huggingface/diffusers
+  - https://github.com/huggingface/peft
+  - https://github.com/huggingface/datasets
+  - https://github.com/huggingface/accelerate
+  - https://github.com/huggingface/huggingface_hub
+  - https://github.com/openai/openai-python
+  - https://github.com/openai/whisper
+  - https://github.com/openai/gym
+  - https://github.com/facebookresearch/llama
+  - https://github.com/facebookresearch/detectron2
+  - https://github.com/lm-sys/FastChat
+  - https://github.com/chatchat-space/Langchain-Chatchat
+  - https://github.com/THUDM/ChatGLM-6B
+  - https://github.com/THUDM/ChatGLM2-6B
+  - https://github.com/THUDM/ChatGLM3
+  - https://github.com/NVIDIA/k8s-device-plugin
+  - https://github.com/gradio-app/gradio
+  - https://github.com/streamlit/streamlit
+  - https://github.com/Stability-AI/stablediffusion
+  - https://github.com/tensorflow/tensorflow
+  - https://github.com/keras-team/keras
+  - https://github.com/PaddlePaddle/Paddle
+  - https://github.com/kubernetes/kubernetes
+  - https://github.com/kubernetes/minikube
+  - https://github.com/Dao-AILab/flash-attention
+  - https://github.com/microsoft/DeepSpeed
+  - https://github.com/NVIDIA/Megatron-LM
+  - https://github.com/NVIDIA/FasterTransformer
+  - https://github.com/triton-inference-server/server
+  - https://github.com/modelscope/modelscope
+  - https://github.com/qemu/qemu
+  - https://github.com/libvirt/libvirt
+  - https://github.com/ossf/alpha-omega
+  - https://github.com/ossf/malicious-packages
+  - https://github.com/ossf/scorecard
+
   # Optional, fetch all branches of repos
   repos_all_branches:
   # - https://github.com/apache/spark
