@@ -86,6 +86,11 @@ users:
   github_id: 'drizzlezyk'
   repos:
   - https://github.com/opensourceways/xihe-server
+  - https://github.com/opensourceways/xihe-aicc-finetune
+  - https://github.com/opensourceways/xihe-grpc-protocol
+  - https://github.com/opensourceways/xihe-training-center
+  - https://github.com/opensourceways/xihe-inference-evaluate
+  - https://github.com/opensourceways/xihe-script
   - https://github.com/opensourceways/infra-mindspore
   - https://github.com/drizzlezyk/MindSpore-competition
   - https://github.com/drizzlezyk/xihe_tutorial
