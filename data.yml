@@ -526,3 +526,10 @@ users:
   - https://gitee.com/modelx/MindSeed
   # 迁移到团队仓
   - https://github.com/zhangsibo1129/hf-ci-demo
+
+- name: 'Muke Wang'
+  gitee_id: 'wangmuke99'
+  github_id: 'AaronMKk'
+  repos:
+  - https://github.com/openmerlin/merlin
+  - https://gitee.com/modelx/MindSeed
