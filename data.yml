@@ -250,11 +250,14 @@ users:
   # Same as above- https://gitee.com/openeuler/openstack
   - https://gitee.com/openeuler/pyisula
   - https://gitee.com/openeuler/openstack
+  - https://gitee.com/modelx/MindSeed
   - https://github.com/openstack/project-config
   - https://github.com/openstack/kolla-ansible
   - https://github.com/openstack/diskimage-builder
   - https://github.com/microsoft/onnxruntime
   - https://github.com/openstack/devstack
+  - https://github.com/openmerlin/merlin
+  - https://github.com/pytorch/pytorch
   repos_all_branches:
   - https://gitee.com/openeuler/openstack-plugin
   - https://gitee.com/src-openeuler/openstack-nova
