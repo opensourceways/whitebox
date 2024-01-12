@@ -66,6 +66,39 @@ users:
   - https://github.com/ossf/alpha-omega
   - https://github.com/ossf/malicious-packages
   - https://github.com/ossf/scorecard
+  - https://github.com/Significant-Gravitas/AutoGPT
+  - https://github.com/AUTOMATIC1111/stable-diffusion-webui
+  - https://github.com/gpt-engineer-org/gpt-engineer
+  - https://github.com/lencx/ChatGPT
+  - https://github.com/LAION-AI/Open-Assistant
+  - https://github.com/hpcaitech/ColossalAI
+  - https://github.com/babysor/MockingBird
+  - https://github.com/photoprism/photoprism
+  - https://github.com/explosion/spaCy
+  - https://github.com/StanGirard/quivr
+  - https://github.com/Lightning-AI/pytorch-lightning
+  - https://github.com/lutzroeder/netron
+  - https://github.com/s0md3v/roop
+  - https://github.com/deepfakes/faceswap
+  - https://github.com/horovod/horovod
+  - https://github.com/CorentinJ/Real-Time-Voice-Cloning
+  - https://github.com/ultralytics/yolov5
+  - https://github.com/xitu/gold-miner
+  - https://github.com/xitu/gold-miner
+  - https://github.com/AMAI-GmbH/AI-Expert-Roadmap
+  - https://github.com/microsoft/AI-For-Beginners
+  - https://github.com/GitHubDaily/GitHubDaily
+  - https://github.com/JushBJJ/Mr.-Ranedeer-AI-Tutor
+  - https://github.com/microsoft/generative-ai-for-beginners
+  - https://github.com/iperov/DeepFaceLab
+  - https://github.com/Developer-Y/cs-video-courses
+  - https://github.com/d2l-ai/d2l-zh
+  - https://github.com/aymericdamien/TensorFlow-Examples
+  - https://github.com/Avik-Jain/100-Days-Of-ML-Code
+  - https://github.com/labmlai/annotated_deep_learning_paper_implementations
+  - https://github.com/dair-ai/Prompt-Engineering-Guide
+  - https://github.com/GokuMohandas/Made-With-ML
+  - https://github.com/BVLC/caffe
 
   # Optional, fetch all branches of repos
   repos_all_branches:
