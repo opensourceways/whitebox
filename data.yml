@@ -483,6 +483,11 @@ users:
   repos:
   - https://github.com/opencv/opencv_contrib
   - https://github.com/opencv/opencv
+  - https://github.com/huggingface/diffusers
+  - https://github.com/mlfoundations/open_clip
+  - https://github.com/huggingface/pytorch-image-models
+  - https://github.com/opencv-infrastructure/opencv-gha-dockerfile
+  - https://gitee.com/openmind-ai/openmind
 
 - name: 'Weijun Lu'
   gitee_id: 'lu-wei-army'
