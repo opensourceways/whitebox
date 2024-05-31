@@ -512,7 +512,7 @@ users:
   - https://github.com/openmerlin/merlin
   - https://github.com/volcano-sh/volcano
   - https://huggingface.co/spaces/ascend-ai/vicuna-on-ascend
-  -	https://gitee.com/openmind-ai/openmind
+  - https://gitee.com/openmind-ai/openmind
   - https://github.com/openmerlin/space-server
   - https://github.com/openmerlin/merlin-server
   - https://github.com/openmerlin/merlin-message-server
