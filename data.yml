@@ -268,6 +268,12 @@ users:
   - https://github.com/openstack/devstack
   - https://github.com/openmerlin/merlin
   - https://github.com/pytorch/pytorch
+  - https://github.com/openmerlin/space-server
+  - https://github.com/openmerlin/openmind-space-operator
+  - https://github.com/openmerlin/image-build-tool
+  - https://gitee.com/openmind-ai/openmind
+  - https://gitee.com/openmind-ai/openmind-hub
+  - https://gitee.com/openmind-ai/infra
   repos_all_branches:
   - https://gitee.com/openeuler/openstack-plugin
   - https://gitee.com/src-openeuler/openstack-nova
