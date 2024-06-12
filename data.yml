@@ -544,6 +544,14 @@ users:
   - https://github.com/lm-sys/FastChat
   - https://github.com/npu-ci/llm-tool-ci
   - https://github.com/microsoft/DeepSpeed
+  - https://github.com/Ascend/Ascend-CI
+  - https://github.com/microsoft/onnxruntime
+  - https://github.com/huggingface/accelerate
+  - https://github.com/microsoft/DeepSpeed
+  - https://github.com/oobabooga/text-generation-webui
+  - https://github.com/AUTOMATIC1111/stable-diffusion-webui
+  - https://github.com/kornia/kornia
+  - https://github.com/hipudding/llama.cpp
 
 - name: 'Quan Jing'
   gitee_id: 'youjingq'
