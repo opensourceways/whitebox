@@ -627,3 +627,4 @@ users:
     - https://github.com/cosdt/pytorch.git
     - https://github.com/cosdt/dockerfiles.git
     - https://github.com/cosdt/spaces.git
+    - https://gitee.com/ascend/pytorch.git
