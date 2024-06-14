@@ -607,3 +607,23 @@ users:
   - https://github.com/opensourceways/message-transfer
   - https://github.com/opensourceways/message-push
   - https://github.com/opensourceways/message-manager
+
+- name: 'Yuanhao Ji'
+  gitee_id: 'tsund'
+  github_id: 'shink'
+  # Recommended, only fetch the default branch of repos
+  repos:
+    - https://github.com/pytorch/pytorch.git
+    - https://github.com/pytorch/examples.git
+    - https://github.com/pytorch/tutorials.git
+    - https://github.com/Ascend/docs.git
+    - https://github.com/Ascend/infrastructure.git
+    - https://github.com/cosdt/pytorch.git
+    - https://github.com/cosdt/dockerfiles.git
+    - https://github.com/cosdt/readme.git
+  # Optional, fetch all branches of repos
+  repos_all_branches:
+    - https://github.com/pytorch/pytorch.git
+    - https://github.com/cosdt/pytorch.git
+    - https://github.com/cosdt/dockerfiles.git
+    - https://github.com/cosdt/spaces.git
