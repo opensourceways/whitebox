@@ -503,6 +503,15 @@ users:
   repos:
   - https://github.com/opencv/opencv_contrib
   - https://github.com/opencv/opencv
+  - https://github.com/opencv-infrastructure/opencv-gha-dockerfile
+  - https://github.com/huggingface/diffusers
+  - https://github.com/mlfoundations/open_clip
+  - https://github.com/huggingface/pytorch-image-models
+  - https://gitee.com/openmind-ai/openmind
+  - https://github.com/wenet-e2e/wenet
+  - https://github.com/hiyouga/LLaMA-Factory
+  - https://github.com/facebookresearch/detectron2
+  - https://github.com/Ascend/docs
 
 - name: 'Weijun Lu'
   gitee_id: 'lu-wei-army'
