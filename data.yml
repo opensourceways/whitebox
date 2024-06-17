@@ -471,6 +471,77 @@ users:
   - https://gitee.com/src-openeuler/gnocchi
   repos_all_branches:
   - https://gitee.com/src-openeuler/python-suds-jurko
+  - https://gitee.com/src-openeuler/diskimage-builder
+  - https://gitee.com/src-openeuler/google-api-core
+  - https://gitee.com/src-openeuler/google-api-python-client
+  - https://gitee.com/src-openeuler/googleapis-common-protos
+  - https://gitee.com/src-openeuler/openstack-barbican
+  - https://gitee.com/src-openeuler/openstack-cloudkitty
+  - https://gitee.com/src-openeuler/openstack-cyborg
+  - https://gitee.com/src-openeuler/openstack-heat-ui
+  - https://gitee.com/src-openeuler/openstack-ironic
+  - https://gitee.com/src-openeuler/openstack-mistral
+  - https://gitee.com/src-openeuler/openstack-neutron-vpnaas
+  - https://gitee.com/src-openeuler/openstack-octavia-ui
+  - https://gitee.com/src-openeuler/openstack-tempest
+  - https://gitee.com/src-openeuler/python-aodhclient
+  - https://gitee.com/src-openeuler/python-barbicanclient
+  - https://gitee.com/src-openeuler/python-beautifulsoup4
+  - https://gitee.com/src-openeuler/python-castellan
+  - https://gitee.com/src-openeuler/python-cinderclient
+  - https://gitee.com/src-openeuler/python-cinderlib
+  - https://gitee.com/src-openeuler/python-cliff
+  - https://gitee.com/src-openeuler/python-cloudkittyclient
+  - https://gitee.com/src-openeuler/python-glanceclient
+  - https://gitee.com/src-openeuler/python-ironicclient
+  - https://gitee.com/src-openeuler/python-keystoneauth1
+  - https://gitee.com/src-openeuler/python-keystoneclient
+  - https://gitee.com/src-openeuler/python-keystonemiddleware
+  - https://gitee.com/src-openeuler/python-krest
+  - https://gitee.com/src-openeuler/python-manilaclient
+  - https://gitee.com/src-openeuler/python-mistralclient
+  - https://gitee.com/src-openeuler/python-mistral-lib
+  - https://gitee.com/src-openeuler/python-neutronclient
+  - https://gitee.com/src-openeuler/python-novaclient
+  - https://gitee.com/src-openeuler/python-openstackclient
+  - https://gitee.com/src-openeuler/python-openstackdocstheme
+  - https://gitee.com/src-openeuler/python-openstacksdk
+  - https://gitee.com/src-openeuler/python-os-brick
+  - https://gitee.com/src-openeuler/python-osc-lib
+  - https://gitee.com/src-openeuler/python-os-ken
+  - https://gitee.com/src-openeuler/python-oslo.cache
+  - https://gitee.com/src-openeuler/python-oslo.concurrency
+  - https://gitee.com/src-openeuler/python-oslo.config
+  - https://gitee.com/src-openeuler/python-oslo.context
+  - https://gitee.com/src-openeuler/python-oslo.db
+  - https://gitee.com/src-openeuler/python-oslo.i18n
+  - https://gitee.com/src-openeuler/python-oslo.limit
+  - https://gitee.com/src-openeuler/python-oslo.log
+  - https://gitee.com/src-openeuler/python-oslo.messaging
+  - https://gitee.com/src-openeuler/python-oslo.metrics
+  - https://gitee.com/src-openeuler/python-oslo.middleware
+  - https://gitee.com/src-openeuler/python-oslo.policy
+  - https://gitee.com/src-openeuler/python-oslo.privsep
+  - https://gitee.com/src-openeuler/python-oslo.reports
+  - https://gitee.com/src-openeuler/python-oslo.rootwrap
+  - https://gitee.com/src-openeuler/python-oslo.serialization
+  - https://gitee.com/src-openeuler/python-oslo.service
+  - https://gitee.com/src-openeuler/python-oslo.upgradecheck
+  - https://gitee.com/src-openeuler/python-oslo.utils
+  - https://gitee.com/src-openeuler/python-oslo.versionedobjects
+  - https://gitee.com/src-openeuler/python-oslo.vmware
+  - https://gitee.com/src-openeuler/python-osprofiler
+  - https://gitee.com/src-openeuler/python-os-testr
+  - https://gitee.com/src-openeuler/python-os-traits
+  - https://gitee.com/src-openeuler/python-os-vif
+  - https://gitee.com/src-openeuler/python-os-win
+  - https://gitee.com/src-openeuler/python-pyroute2
+  - https://gitee.com/src-openeuler/python-sushy
+  - https://gitee.com/src-openeuler/python-sushy-oem-idrac
+  - https://gitee.com/src-openeuler/python-swiftclient
+  - https://gitee.com/src-openeuler/python-troveclient
+  - https://gitee.com/src-openeuler/python-trove-dashboard
+  - https://gitee.com/src-openeuler/python-xmlschema
 
 - name: 'Sibo Zhang'
   gitee_id: 'zhangsibo1129'
@@ -489,6 +560,11 @@ users:
   - https://github.com/npu-ci/llm-tool-ci
   # 迁移到团队仓
   - https://github.com/zhangsibo1129/hf-ci-demo
+  - https://gitee.com/modelx/MindSeed
+  - https://github.com/openmerlin/space-server
+  - https://github.com/openmerlin/openmind-space-operator
+  - https://gitee.com/openmind-ai/openmind
+  - https://github.com/modelscope/modelscope-agent.git
 
 - name: 'xiangru mei'
   gitee_id: 'xiangrumei'
@@ -508,6 +584,15 @@ users:
   repos:
   - https://github.com/opencv/opencv_contrib
   - https://github.com/opencv/opencv
+  - https://github.com/opencv-infrastructure/opencv-gha-dockerfile
+  - https://github.com/huggingface/diffusers
+  - https://github.com/mlfoundations/open_clip
+  - https://github.com/huggingface/pytorch-image-models
+  - https://gitee.com/openmind-ai/openmind
+  - https://github.com/wenet-e2e/wenet
+  - https://github.com/hiyouga/LLaMA-Factory
+  - https://github.com/facebookresearch/detectron2
+  - https://github.com/Ascend/docs
 
 - name: 'Weijun Lu'
   gitee_id: 'lu-wei-army'
@@ -517,6 +602,13 @@ users:
   - https://gitee.com/openeuler/community
   - https://gitee.com/openeuler/eulerpublisher
   - https://github.com/Linaro/ecosystemlandscape
+  - https://gitee.com/openeuler/openeuler-docker-images
+  - https://gitee.com/openeuler/cloudnative
+  - https://github.com/bioconda/bioconda-recipes
+  - https://github.com/conda-forge/conda-forge-pinning-feedstock
+  - https://github.com/aquasecurity/trivy
+  - https://github.com/aquasecurity/trivy-db
+  - https://github.com/aquasecurity/vuln-list-update
 
 - name: 'Shuqiao Li'
   gitee_id: 'celestialli'
@@ -549,6 +641,14 @@ users:
   - https://github.com/lm-sys/FastChat
   - https://github.com/npu-ci/llm-tool-ci
   - https://github.com/microsoft/DeepSpeed
+  - https://github.com/Ascend/Ascend-CI
+  - https://github.com/microsoft/onnxruntime
+  - https://github.com/huggingface/accelerate
+  - https://github.com/microsoft/DeepSpeed
+  - https://github.com/oobabooga/text-generation-webui
+  - https://github.com/AUTOMATIC1111/stable-diffusion-webui
+  - https://github.com/kornia/kornia
+  - https://github.com/hipudding/llama.cpp
 
 - name: 'Quan Jing'
   gitee_id: 'youjingq'
@@ -612,3 +712,24 @@ users:
   - https://github.com/opensourceways/message-transfer
   - https://github.com/opensourceways/message-push
   - https://github.com/opensourceways/message-manager
+
+- name: 'Yuanhao Ji'
+  gitee_id: 'tsund'
+  github_id: 'shink'
+  # Recommended, only fetch the default branch of repos
+  repos:
+    - https://github.com/pytorch/pytorch.git
+    - https://github.com/pytorch/examples.git
+    - https://github.com/pytorch/tutorials.git
+    - https://github.com/Ascend/docs.git
+    - https://github.com/Ascend/infrastructure.git
+    - https://github.com/cosdt/pytorch.git
+    - https://github.com/cosdt/dockerfiles.git
+    - https://github.com/cosdt/readme.git
+  # Optional, fetch all branches of repos
+  repos_all_branches:
+    - https://github.com/pytorch/pytorch.git
+    - https://github.com/cosdt/pytorch.git
+    - https://github.com/cosdt/dockerfiles.git
+    - https://github.com/cosdt/spaces.git
+    - https://gitee.com/ascend/pytorch.git
