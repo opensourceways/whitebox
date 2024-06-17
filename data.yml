@@ -484,6 +484,11 @@ users:
   - https://github.com/npu-ci/llm-tool-ci
   # 迁移到团队仓
   - https://github.com/zhangsibo1129/hf-ci-demo
+  - https://gitee.com/modelx/MindSeed
+  - https://github.com/openmerlin/space-server
+  - https://github.com/openmerlin/openmind-space-operator
+  - https://gitee.com/openmind-ai/openmind
+  - https://github.com/modelscope/modelscope-agent.git
 
 - name: 'xiangru mei'
   gitee_id: 'xiangrumei'
