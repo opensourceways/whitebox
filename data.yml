@@ -512,6 +512,13 @@ users:
   - https://gitee.com/openeuler/community
   - https://gitee.com/openeuler/eulerpublisher
   - https://github.com/Linaro/ecosystemlandscape
+  - https://gitee.com/openeuler/openeuler-docker-images
+  - https://gitee.com/openeuler/cloudnative
+  - https://github.com/bioconda/bioconda-recipes
+  - https://github.com/conda-forge/conda-forge-pinning-feedstock
+  - https://github.com/aquasecurity/trivy
+  - https://github.com/aquasecurity/trivy-db
+  - https://github.com/aquasecurity/vuln-list-update
 
 - name: 'Shuqiao Li'
   gitee_id: 'celestialli'
