@@ -466,6 +466,77 @@ users:
   - https://gitee.com/src-openeuler/gnocchi
   repos_all_branches:
   - https://gitee.com/src-openeuler/python-suds-jurko
+  - https://gitee.com/src-openeuler/diskimage-builder
+  - https://gitee.com/src-openeuler/google-api-core
+  - https://gitee.com/src-openeuler/google-api-python-client
+  - https://gitee.com/src-openeuler/googleapis-common-protos
+  - https://gitee.com/src-openeuler/openstack-barbican
+  - https://gitee.com/src-openeuler/openstack-cloudkitty
+  - https://gitee.com/src-openeuler/openstack-cyborg
+  - https://gitee.com/src-openeuler/openstack-heat-ui
+  - https://gitee.com/src-openeuler/openstack-ironic
+  - https://gitee.com/src-openeuler/openstack-mistral
+  - https://gitee.com/src-openeuler/openstack-neutron-vpnaas
+  - https://gitee.com/src-openeuler/openstack-octavia-ui
+  - https://gitee.com/src-openeuler/openstack-tempest
+  - https://gitee.com/src-openeuler/python-aodhclient
+  - https://gitee.com/src-openeuler/python-barbicanclient
+  - https://gitee.com/src-openeuler/python-beautifulsoup4
+  - https://gitee.com/src-openeuler/python-castellan
+  - https://gitee.com/src-openeuler/python-cinderclient
+  - https://gitee.com/src-openeuler/python-cinderlib
+  - https://gitee.com/src-openeuler/python-cliff
+  - https://gitee.com/src-openeuler/python-cloudkittyclient
+  - https://gitee.com/src-openeuler/python-glanceclient
+  - https://gitee.com/src-openeuler/python-ironicclient
+  - https://gitee.com/src-openeuler/python-keystoneauth1
+  - https://gitee.com/src-openeuler/python-keystoneclient
+  - https://gitee.com/src-openeuler/python-keystonemiddleware
+  - https://gitee.com/src-openeuler/python-krest
+  - https://gitee.com/src-openeuler/python-manilaclient
+  - https://gitee.com/src-openeuler/python-mistralclient
+  - https://gitee.com/src-openeuler/python-mistral-lib
+  - https://gitee.com/src-openeuler/python-neutronclient
+  - https://gitee.com/src-openeuler/python-novaclient
+  - https://gitee.com/src-openeuler/python-openstackclient
+  - https://gitee.com/src-openeuler/python-openstackdocstheme
+  - https://gitee.com/src-openeuler/python-openstacksdk
+  - https://gitee.com/src-openeuler/python-os-brick
+  - https://gitee.com/src-openeuler/python-osc-lib
+  - https://gitee.com/src-openeuler/python-os-ken
+  - https://gitee.com/src-openeuler/python-oslo.cache
+  - https://gitee.com/src-openeuler/python-oslo.concurrency
+  - https://gitee.com/src-openeuler/python-oslo.config
+  - https://gitee.com/src-openeuler/python-oslo.context
+  - https://gitee.com/src-openeuler/python-oslo.db
+  - https://gitee.com/src-openeuler/python-oslo.i18n
+  - https://gitee.com/src-openeuler/python-oslo.limit
+  - https://gitee.com/src-openeuler/python-oslo.log
+  - https://gitee.com/src-openeuler/python-oslo.messaging
+  - https://gitee.com/src-openeuler/python-oslo.metrics
+  - https://gitee.com/src-openeuler/python-oslo.middleware
+  - https://gitee.com/src-openeuler/python-oslo.policy
+  - https://gitee.com/src-openeuler/python-oslo.privsep
+  - https://gitee.com/src-openeuler/python-oslo.reports
+  - https://gitee.com/src-openeuler/python-oslo.rootwrap
+  - https://gitee.com/src-openeuler/python-oslo.serialization
+  - https://gitee.com/src-openeuler/python-oslo.service
+  - https://gitee.com/src-openeuler/python-oslo.upgradecheck
+  - https://gitee.com/src-openeuler/python-oslo.utils
+  - https://gitee.com/src-openeuler/python-oslo.versionedobjects
+  - https://gitee.com/src-openeuler/python-oslo.vmware
+  - https://gitee.com/src-openeuler/python-osprofiler
+  - https://gitee.com/src-openeuler/python-os-testr
+  - https://gitee.com/src-openeuler/python-os-traits
+  - https://gitee.com/src-openeuler/python-os-vif
+  - https://gitee.com/src-openeuler/python-os-win
+  - https://gitee.com/src-openeuler/python-pyroute2
+  - https://gitee.com/src-openeuler/python-sushy
+  - https://gitee.com/src-openeuler/python-sushy-oem-idrac
+  - https://gitee.com/src-openeuler/python-swiftclient
+  - https://gitee.com/src-openeuler/python-troveclient
+  - https://gitee.com/src-openeuler/python-trove-dashboard
+  - https://gitee.com/src-openeuler/python-xmlschema
 
 - name: 'Sibo Zhang'
   gitee_id: 'zhangsibo1129'
