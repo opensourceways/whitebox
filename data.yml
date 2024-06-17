@@ -742,3 +742,17 @@ users:
     - https://github.com/cosdt/dockerfiles.git
     - https://github.com/cosdt/spaces.git
     - https://gitee.com/ascend/pytorch.git
+
+- name: 'Zheng Qin'
+  gitee_id: 'qinzheng4'
+  github_id: '22dimensions'
+  # Recommended, only fetch the default branch of repos
+  repos:
+    - https://github.com/pytorch/pytorch.git
+    - https://github.com/openmerlin/space-server
+    - https://github.com/cosdt/dockerfiles.git
+    - https://github.com/openmerlin/image-build-tool
+  # Optional, fetch all branches of repos
+  repos_all_branches:
+    - https://github.com/openmerlin/space-server
+    - https://github.com/openmerlin/image-build-tool
