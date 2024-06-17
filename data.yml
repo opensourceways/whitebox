@@ -742,3 +742,32 @@ users:
     - https://github.com/cosdt/dockerfiles.git
     - https://github.com/cosdt/spaces.git
     - https://gitee.com/ascend/pytorch.git
+
+- name: 'liuqi'
+  gitee_id: 'liuqi469227928'
+  github_id: 'nicliuqi'
+  repos:
+    - https://github.com/opensourceways/app-meeting-server
+    - https://github.com/opensourceways/community-robot-lib
+    - https://github.com/opensourceways/issue_pr_board
+    - https://github.com/opensourceways/issue_state_monitor
+    - https://github.com/opensourceways/mirrorbits
+    - https://github.com/opensourceways/explainshell
+    - https://github.com/opensourceways/robot-gitee-openeuler-review
+    - https://github.com/opensourceways/robot-gitee-lifecycle
+    - https://github.com/opensourceways/go-gitee
+    - https://github.com/opensourceways/robot-openeuler-ci-tools
+    - https://github.com/Open-Infra-Ops/icms
+    - https://github.com/Open-Infra-Ops/v8-token-setter
+    - https://github.com/Open-Infra-Ops/pr-statistics-report
+    - https://github.com/Open-Infra-Ops/invite-enterprise-members
+    - https://github.com/Open-Infra-Ops/ci_projects_builders
+    - https://gitee.com/openeuler/infrastructure
+    - https://gitee.com/openeuler/community
+    - https://gitee.com/openeuler/openeuler-jenkins
+    - https://gitee.com/openeuler/openEuler-Advisor
+    - https://gitee.com/openeuler/tool-collections
+    - https://gitee.com/openeuler/docs
+    - https://gitee.com/src-openeuler/obs_meta
+    - https://gitee.com/openeuler/li-wen
+    - https://gitee.com/openeuler/website-v2
