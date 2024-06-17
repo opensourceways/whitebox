@@ -670,9 +670,10 @@ users:
 
 - name: 'Zhonglin Gou'
   gitee_id: 'gi1tee'
-  github_id: ''
+  github_id: 'cllouud'
   repos:
   - https://gitee.com/opensourceway/EasySoftwareInput
+  - https://gitee.com/opensourceway/EasySoftwareService
 
 - name: 'Long Jiang'
   gitee_id: 'jl-brother1'
