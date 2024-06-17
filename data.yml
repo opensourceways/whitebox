@@ -421,6 +421,11 @@ users:
   - https://github.com/opencv/ci-gha-workflow
   - https://github.com/opencv-infrastructure/opencv-gha-dockerfile
   - https://github.com/Linaro/ecosystemlandscape
+  - https://github.com/pytorch/pytorch
+  - https://github.com/Ascend/torch_npu
+  - https://github.com/Ascend/docs
+  - https://github.com/Lightning-AI/pytorch-lightning
+  - https://github.com/ggerganov/llama.cpp
 
 - name: 'Zhuangbang Gong'
   gitee_id: 'gzbang'
