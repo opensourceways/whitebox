@@ -313,6 +313,9 @@ users:
   - https://github.com/Linaro/ecosystemlandscape
   - https://github.com/cosdt/dockerfiles
   - https://github.com/pytorch/tutorials
+  - https://github.com/Ascend/torch_npu
+  - https://github.com/Ascend/docs
+  - https://github.com/pytorch/rfcs
   repos_all_branches:
   - https://gitee.com/src-openeuler/openstack-cinder
   - https://gitee.com/src-openeuler/openstack-glance
