@@ -398,13 +398,20 @@ users:
   - https://gitee.com/src-openeuler/perl-POE
   - https://github.com/fedora-copr/copr
   - https://github.com/pkking/efi_signer
-  - https://github.com/pkking/efi_signer
   - https://github.com/rpm-software-management/mock
   - https://github.com/TommyLike/resalloc-kubernetes/
   - https://github.com/lxc/lxc-ci/
   - https://github.com/opensourceways/infra-openeuler
   - https://github.com/opensourceways/infra-common/
   - https://github.com/opensourceways/copr_docker
+  - https://github.com/opensourceways/deploy
+  - https://github.com/openmerlin/merlin-server
+  - https://github.com/openmerlin/gitea-hook-delivery
+  - https://github.com/openmerlin/gitea
+  - https://github.com/openmerlin/merlin-message-server
+  - https://github.com/openmerlin/git-access
+  - https://github.com/openmerlin/merlin-website
+  - https://gitee.com/openeuler/infrastructure
 
 - name: 'Wendong Cao'
   gitee_id: 'devin-cwd'
