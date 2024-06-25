@@ -806,3 +806,12 @@ users:
   - https://github.com/openmerlin/merlin-sdk
   - https://github.com/openmerlin/moderation-server-sdk
 
+- name: 'Ming Cui'
+  gitee_id: 'mccpr'
+  github_id: 'mccpr'
+  repos:
+    - https://gitee.com/openmind-ai/openmind
+    - https://github.com/cosdt/chatfactory
+  repos_all_branches:
+    - https://gitee.com/openmind-ai/openmind
+    - https://github.com/cosdt/chatfactory
