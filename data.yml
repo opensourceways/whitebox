@@ -237,6 +237,7 @@ users:
   - https://gitee.com/src-openeuler/python-jenkins
   - https://gitee.com/src-openeuler/obs_meta
   - https://gitee.com/opensourceway/app-bugzilla
+  - https://gitee.com/opensourceway/opensourceway
   - https://gitee.com/georgecaotest/mypytools
   - https://gitee.com/ci-bot/survey
   - https://gitee.com/openeuler-competition/summer-2021
@@ -397,13 +398,20 @@ users:
   - https://gitee.com/src-openeuler/perl-POE
   - https://github.com/fedora-copr/copr
   - https://github.com/pkking/efi_signer
-  - https://github.com/pkking/efi_signer
   - https://github.com/rpm-software-management/mock
   - https://github.com/TommyLike/resalloc-kubernetes/
   - https://github.com/lxc/lxc-ci/
   - https://github.com/opensourceways/infra-openeuler
   - https://github.com/opensourceways/infra-common/
   - https://github.com/opensourceways/copr_docker
+  - https://github.com/opensourceways/deploy
+  - https://github.com/openmerlin/merlin-server
+  - https://github.com/openmerlin/gitea-hook-delivery
+  - https://github.com/openmerlin/gitea
+  - https://github.com/openmerlin/merlin-message-server
+  - https://github.com/openmerlin/git-access
+  - https://github.com/openmerlin/merlin-website
+  - https://gitee.com/openeuler/infrastructure
 
 - name: 'Wendong Cao'
   gitee_id: 'devin-cwd'
@@ -668,11 +676,20 @@ users:
   repos_all_branches:
   - https://gitee.com/OpenCloudOS/OpenCloudOS-Kernel
 
+- name: 'lishutian'
+  gitee_id: 'li_zt'
+  github_id: ''
+  repos_all_branches:
+  - https://gitee.com/openharmony/graphic_graphic_2d
+  - https://gitee.com/openharmony/interface_sdk_c
+  - https://gitee.com/openharmony/arkui_ace_engine
+  
 - name: 'Zhonglin Gou'
   gitee_id: 'gi1tee'
-  github_id: ''
+  github_id: 'cllouud'
   repos:
   - https://gitee.com/opensourceway/EasySoftwareInput
+  - https://gitee.com/opensourceway/EasySoftwareService
 
 - name: 'Long Jiang'
   gitee_id: 'jl-brother1'
@@ -742,6 +759,52 @@ users:
     - https://github.com/cosdt/dockerfiles.git
     - https://github.com/cosdt/spaces.git
     - https://gitee.com/ascend/pytorch.git
+
+- name: 'liuqi'
+  gitee_id: 'liuqi469227928'
+  github_id: 'nicliuqi'
+  repos:
+    - https://github.com/opensourceways/app-meeting-server
+    - https://github.com/opensourceways/community-robot-lib
+    - https://github.com/opensourceways/issue_pr_board
+    - https://github.com/opensourceways/issue_state_monitor
+    - https://github.com/opensourceways/mirrorbits
+    - https://github.com/opensourceways/explainshell
+    - https://github.com/opensourceways/robot-gitee-openeuler-review
+    - https://github.com/opensourceways/robot-gitee-lifecycle
+    - https://github.com/opensourceways/go-gitee
+    - https://github.com/opensourceways/robot-openeuler-ci-tools
+    - https://github.com/Open-Infra-Ops/icms
+    - https://github.com/Open-Infra-Ops/v8-token-setter
+    - https://github.com/Open-Infra-Ops/pr-statistics-report
+    - https://github.com/Open-Infra-Ops/invite-enterprise-members
+    - https://github.com/Open-Infra-Ops/ci_projects_builders
+    - https://gitee.com/openeuler/infrastructure
+    - https://gitee.com/openeuler/community
+    - https://gitee.com/openeuler/openeuler-jenkins
+    - https://gitee.com/openeuler/openEuler-Advisor
+    - https://gitee.com/openeuler/tool-collections
+    - https://gitee.com/openeuler/docs
+    - https://gitee.com/src-openeuler/obs_meta
+    - https://gitee.com/openeuler/li-wen
+    - https://gitee.com/openeuler/website-v2
+
+- name: 'Zou Ming'
+  gitee_id: 'zou-ming-ivan'
+  github_id: 'ivan-zouming'
+  repos:
+  - https://github.com/opensourceways/deploy
+  repos_all_branches:
+  - https://github.com/openmerlin/merlin-server
+  - https://github.com/openmerlin/merlin-message-server
+  - https://github.com/openmerlin/gitea
+  - https://github.com/openmerlin/git-access
+  - https://github.com/openmerlin/moderation-service
+  - https://github.com/openmerlin/moderation-server
+  - https://github.com/openmerlin/moderation-service-sdk
+  - https://github.com/openmerlin/git-access-sdk
+  - https://github.com/openmerlin/merlin-sdk
+  - https://github.com/openmerlin/moderation-server-sdk
 
 - name: 'Ming Cui'
   gitee_id: 'mccpr'
