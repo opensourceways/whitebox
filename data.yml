@@ -842,3 +842,11 @@ users:
   - https://github.com/opensourceways/datastat-server
   repos_all_branches:
   - https://github.com/opensourceways/datastat-server
+
+- name: 'Yanan Cao'
+  gitee_id: 'qsxka'
+  github_id: 'qsxka'
+  repos:
+  - https://gitee.com/qsxka/om-aidetect
+  repos_all_branches:
+  - https://gitee.com/qsxka/om-aidetect
