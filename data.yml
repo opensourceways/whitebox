@@ -842,3 +842,9 @@ users:
   - https://github.com/opensourceways/datastat-server
   repos_all_branches:
   - https://github.com/opensourceways/datastat-server
+
+- name: 'Ziqi Hong'
+  gitee_id: 'candyhong'
+  github_id: 'hongziqi'
+  repos:
+  - https://github.com/opensourceways/xihe-inference-evaluate
