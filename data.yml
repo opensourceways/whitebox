@@ -842,3 +842,22 @@ users:
   - https://github.com/opensourceways/datastat-server
   repos_all_branches:
   - https://github.com/opensourceways/datastat-server
+
+- name: 'Yan Zhao'
+  gitee_id: ''
+  github_id: 'ssignik'
+  repos:
+  - https://github.com/opensourceways/apisix-build-tools
+  - https://github.com/opensourceways/apisix-docker
+  - https://github.com/ssignik/apisix-kubernetes
+  repos_all_branches:
+  - https://github.com/opensourceways/apisix-build-tools
+  - https://github.com/opensourceways/apisix-docker
+  - https://github.com/opensourceways/apisix
+  - https://github.com/opensourceways/apisix-dashboard
+  - https://github.com/opensourceways/apisix-ingress-controller
+  - https://github.com/opensourceways/etcd
+  - https://github.com/ssignik/apisix
+  - https://github.com/ssignik/apisix-dashboard
+  - https://github.com/ssignik/apisix-ingress-controller
+  - https://github.com/ssignik/etcd
