@@ -938,9 +938,10 @@ users:
   - https://github.com/opensourceways/apisix-build-tools
   - https://github.com/opensourceways/apisix-docker
   - https://github.com/ssignik/apisix-kubernetes
+  repos_all_branches:
   - https://github.com/opensourceways/certification-server
   - https://gitee.com/opensourceway/EasySoftwareInput
-  
+
 - name: 'Guangjie Bai'
   gitee_id: 'baibgj'
   github_id: 'GuangJie1'
