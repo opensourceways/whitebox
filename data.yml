@@ -947,3 +947,11 @@ users:
   repos:
     - https://gitee.com/openeuler/eulerpublisher
     - https://gitee.com/openeuler/openeuler-docker-images
+
+- name: 'Chengzhi Xie'
+  gitee_id: 'cccabushi'
+  github_id: '2511689622'
+  repos:
+  - https://github.com/opensourceways/datastat-server
+  - https://github.com/opensourceways/EasySoftwareService
+  - https://gitee.com/opensourceway/EaseSearch
