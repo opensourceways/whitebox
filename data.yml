@@ -259,26 +259,13 @@ users:
   gitee_id: 'xiyuanwang'
   github_id: 'wangxiyuan'
   repos:
-  # Same as above- https://gitee.com/openeuler/openstack
-  - https://gitee.com/openeuler/pyisula
-  - https://gitee.com/openeuler/openstack
-  - https://gitee.com/modelx/MindSeed
-  - https://github.com/openstack/project-config
-  - https://github.com/openstack/kolla-ansible
-  - https://github.com/openstack/diskimage-builder
-  - https://github.com/microsoft/onnxruntime
-  - https://github.com/openstack/devstack
-  - https://github.com/openmerlin/merlin
   - https://github.com/pytorch/pytorch
   - https://github.com/openmerlin/space-server
-  - https://github.com/openmerlin/openmind-space-operator
+  - https://github.com/openmerlin/space-k8s-operator
   - https://github.com/openmerlin/image-build-tool
   - https://gitee.com/openmind-ai/openmind
   - https://gitee.com/openmind-ai/openmind-hub
   - https://gitee.com/openmind-ai/infra
-  repos_all_branches:
-  - https://gitee.com/openeuler/openstack-plugin
-  - https://gitee.com/src-openeuler/openstack-nova
 
 - name: 'Zhenyu Zheng'
   gitee_id: 'zhengzhenyu'
@@ -606,6 +593,11 @@ users:
   - https://github.com/hiyouga/LLaMA-Factory
   - https://github.com/facebookresearch/detectron2
   - https://github.com/Ascend/docs
+  - https://github.com/axolotl-ai-cloud/axolotl
+  - https://github.com/ggerganov/whisper.cpp
+  - https://github.com/ggerganov/llama.cpp
+  - https://github.com/vllm-project/vllm
+  - https://github.com/hiyouga/LLaMA-Factory-Doc
 
 - name: 'Weijun Lu'
   gitee_id: 'lu-wei-army'
@@ -640,13 +632,15 @@ users:
   - https://gitee.com/openmind-ai/openmind
   - https://github.com/openmerlin/space-server
   - https://github.com/openmerlin/space-server-monitor
-  - https://github.com/opensourceways/deploy
   - https://github.com/openmerlin/merlin-server
   - https://github.com/openmerlin/merlin-message-server
   - https://github.com/openmerlin/clam-go
   - https://github.com/openmerlin/local-clam-db
   - https://github.com/cosdt/npu-support-helper
   - https://gitee.com/openmind-ai/openmind-hub
+  - https://github.com/openmerlin/space-moderation-proxy
+  - https://github.com/openmerlin/flexcompute-sdk
+  - https://github.com/openmerlin/flexcompute-server
 
 - name: 'Shuai Wang'
   gitee_id: 'xiaozhunren'
@@ -710,15 +704,17 @@ users:
   - https://gitee.com/opensourceway/EasySoftwareInput
   - https://gitee.com/opensourceway/EasySoftwareService
 
-- name: 'Yanghang Li'
+- name: 'LiYanghang'
   gitee_id: 'LiYanghang00'
   github_id: 'LiYanghang00'
   repos:
     - https://github.com/openmerlin/merlin-server
     - https://github.com/openmerlin/merlin-sdk
     - https://github.com/openmerlin/gitea
+    - https://github.com/openmerlin/cronjob
     - https://github.com/openmerlin/merlin-message-server
     - https://github.com/openmerlin/git-access
+    - https://github.com/opensourceways/certification-server
 
 - name: 'Shupei Shi'
   gitee_id: 'shishupei10'
@@ -830,10 +826,8 @@ users:
   repos:
   - https://github.com/openmerlin/space-server-monitor
   - https://github.com/openmerlin/space-server
-  - https://github.com/openmerlin/space-server-quick-script
-  - https://github.com/openmerlin/workflow-automate
-  - https://github.com/opensourceways/deploy
   - https://github.com/openmerlin/image-build-tool
+  - https://github.com/openmerlin/space-k8s-operator
 
 - name: 'Jixiang Li'
   gitee_id: 'G-Sacker'
@@ -843,6 +837,38 @@ users:
   repos_all_branches:
   - https://github.com/opensourceways/datastat-server
 
+- name: 'Zheng Qin'
+  gitee_id: 'qinzheng4'
+  github_id: '22dimensions'
+  repos:
+    - https://github.com/openmerlin/space-server
+    - https://github.com/openmerlin/image-build-tool
+    - https://github.com/openmerlin/space-k8s-operator
+    - https://github.com/openmerlin/dockerfile
+    - https://github.com/openmerlin/openmind-resource-template
+
+- name: 'Xinyue Zhang'
+  gitee_id: 'hfadzxy'
+  github_id: 'hfadzxy'
+  repos:
+  - https://github.com/openmerlin/space-server
+  - https://github.com/openmerlin/space-server-monitor
+  - https://github.com/openmerlin/image-build-tool
+  - https://github.com/openmerlin/space-k8s-operator
+  - https://github.com/openmerlin/space-moderation-proxy
+
+- name: 'Yu Liu'
+  gitee_id: 'liuyu18801113053'
+  github_id: 'liuyu3053'
+  repos:
+  - https://github.com/Open-Infra-Ops/IntegrateTest
+  - https://github.com/Open-Infra-Ops/openApiTest
+  - https://gitee.com/liuyu18801113053/ui-automation-testing
+  repos_all_branches:
+  - https://github.com/Open-Infra-Ops/IntegrateTest
+  - https://github.com/Open-Infra-Ops/openApiTest
+  - https://gitee.com/liuyu18801113053/ui-automation-testing
+  
 - name: 'Yan Zhao'
   gitee_id: 'zy960'
   github_id: 'ssignik'
