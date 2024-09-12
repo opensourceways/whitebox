@@ -647,6 +647,9 @@ users:
   - https://github.com/openmerlin/local-clam-db
   - https://github.com/cosdt/npu-support-helper
   - https://gitee.com/openmind-ai/openmind-hub
+  - https://github.com/openmerlin/space-moderation-proxy
+  - https://github.com/openmerlin/flexcompute-sdk
+  - https://github.com/openmerlin/flexcompute-server
 
 - name: 'Shuai Wang'
   gitee_id: 'xiaozhunren'
