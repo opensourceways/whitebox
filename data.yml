@@ -873,6 +873,6 @@ users:
   gitee_id: 'yao-xiaobai'
   github_id: 'yao-xiaobai'
   repos:
-  - https://opensourceways/cve-manager
-  - https://opensourceways/cve-manager-ng
+  - https://github.com/opensourceways/cve-manager
+  - https://github.com/opensourceways/cve-manager-ng
   - https://github.com/Open-Infra-Ops/icms
