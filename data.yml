@@ -844,7 +844,7 @@ users:
   - https://github.com/opensourceways/datastat-server
 
 - name: 'Yan Zhao'
-  gitee_id: ''
+  gitee_id: 'zy960'
   github_id: 'ssignik'
   repos:
   - https://github.com/opensourceways/apisix-build-tools
@@ -853,11 +853,5 @@ users:
   repos_all_branches:
   - https://github.com/opensourceways/apisix-build-tools
   - https://github.com/opensourceways/apisix-docker
-  - https://github.com/opensourceways/apisix
-  - https://github.com/opensourceways/apisix-dashboard
-  - https://github.com/opensourceways/apisix-ingress-controller
-  - https://github.com/opensourceways/etcd
-  - https://github.com/ssignik/apisix
-  - https://github.com/ssignik/apisix-dashboard
-  - https://github.com/ssignik/apisix-ingress-controller
-  - https://github.com/ssignik/etcd
+  - https://github.com/opensourceways/certification-server
+  - https://gitee.com/opensourceway/EasySoftwareInput
