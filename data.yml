@@ -856,7 +856,10 @@ users:
   - https://github.com/opensourceways/cve-manager
   - https://github.com/opensourceways/cve-manager-ng
   - https://github.com/Open-Infra-Ops/icms
-  
+  repos_all_branches:
+  - https://github.com/opensourceways/cve-manager-ng
+  - https://github.com/Open-Infra-Ops/icms
+
 - name: 'Kaiwen Zheng'
   gitee_id: 'rosecoffe'
   github_id: 'rosecoffe'
