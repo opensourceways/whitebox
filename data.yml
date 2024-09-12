@@ -935,12 +935,7 @@ users:
   - https://github.com/opensourceways/apisix-build-tools
   - https://github.com/opensourceways/apisix-docker
   - https://github.com/ssignik/apisix-kubernetes
-  - https://github.com/opensourceways/certification-server
-  - https://gitee.com/opensourceway/EasySoftwareInput
   repos_all_branches:
-  - https://github.com/opensourceways/apisix-build-tools
-  - https://github.com/opensourceways/apisix-docker
-  - https://github.com/ssignik/apisix-kubernetes
   - https://github.com/opensourceways/certification-server
   - https://gitee.com/opensourceway/EasySoftwareInput
 
