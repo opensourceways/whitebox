@@ -861,3 +861,11 @@ users:
   github_id: 'hongziqi'
   repos:
   - https://github.com/opensourceways/xihe-inference-evaluate
+
+- name: 'Chengzhi Xie'
+  gitee_id: 'cccabushi'
+  github_id: '2511689622'
+  repos:
+  - https://github.com/opensourceways/datastat-server
+  - https://github.com/opensourceways/EasySoftwareService
+  - https://gitee.com/opensourceway/EaseSearch
