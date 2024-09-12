@@ -937,3 +937,10 @@ users:
   - https://github.com/ssignik/apisix-kubernetes
   - https://github.com/opensourceways/certification-server
   - https://gitee.com/opensourceway/EasySoftwareInput
+  
+- name: 'Guangjie Bai'
+  gitee_id: 'baibgj'
+  github_id: 'GuangJie1'
+  repos:
+    - https://gitee.com/openeuler/eulerpublisher
+    - https://gitee.com/openeuler/openeuler-docker-images
