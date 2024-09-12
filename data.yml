@@ -67,24 +67,6 @@ users:
   repos_all_branches:
   - https://gitee.com/opensourceway/EasySoftwareService
 
-- name: 'wangweifeng'
-  gitee_id: 'wang-weifeng21'
-  github_id: 'hiddenvillage'
-  repos:
-  - https://gitee.com/opensourceway/easyeditor-server
-  - https://github.com/opensourceways/discourse-translator
-  - https://github.com/opensourceways/discourse-oauth2-basic
-  - https://github.com/opensourceways/om-docs
-  - https://github.com/opensourceways/DB-GPT
-  - https://github.com/opensourceways/datastat-server
-  - https://gitee.com/opensourceway/discourse-easecheck
-  - https://gitee.com/opensourceway/EaseSearch
-  - https://gitee.com/opensourceway/easymodel
-  repos_all_branches:
-  - https://github.com/opensourceways/discourse_docker
-  - https://github.com/opensourceways/oneid-server
-  - https://gitee.com/opensourceway/om-webserver
-
 - name: 'zhongyuanke'
   gitee_id: 'drizzlezyk'
   github_id: 'drizzlezyk'
@@ -335,16 +317,6 @@ users:
   - https://github.com/kiwik/gazelle_plugin
   # GithubAction aarch64 on x86
   - https://github.com/uraimo/run-on-arch-action
-
-- name: 'Weifeng Wang'
-  gitee_id: 'wang-weifeng21'
-  github_id: 'hiddenvillage'
-  repos:
-  - https://github.com/opensourceways/discourse
-  - https://gitee.com/opensourceway/EaseCheck
-  - https://gitee.com/opensourceway/om-collections
-  repos_all_branches:
-  - https://github.com/opensourceways/discourse_docker
 
 - name: 'Yuanke Zhong'
   gitee_id: 'drizzlezyk'
@@ -657,18 +629,6 @@ users:
   - https://github.com/AUTOMATIC1111/stable-diffusion-webui
   - https://github.com/kornia/kornia
   - https://github.com/hipudding/llama.cpp
-
-- name: 'Quan Jing'
-  gitee_id: 'youjingq'
-  github_id: 'jq460494839'
-  repos:
-  - https://github.com/lm-sys/FastChat
-  - https://github.com/huggingface/accelerate
-  - https://github.com/npu-ci/llm-tool-ci
-  - https://gitee.com/modelx/MindSeed
-  # 迁移到团队仓
-  - https://github.com/zhangsibo1129/hf-ci-demo
-  - https://github.com/openmerlin/space-server-monitor
   
 - name: 'hongrongxuan'
   gitee_id: 'barbo'
@@ -837,6 +797,14 @@ users:
   repos_all_branches:
   - https://github.com/opensourceways/datastat-server
 
+- name: 'Jiahao Su'
+  gitee_id: ''
+  github_id: 'xuedinge233'
+  repos:
+  - https://github.com/Ascend/docs
+  - https://github.com/microsoft/DeepSpeed
+  - https://github.com/ggerganov/llama.cpp
+
 - name: 'Zheng Qin'
   gitee_id: 'qinzheng4'
   github_id: '22dimensions'
@@ -888,6 +856,12 @@ users:
   - https://github.com/opensourceways/cve-manager
   - https://github.com/opensourceways/cve-manager-ng
   - https://github.com/Open-Infra-Ops/icms
+  
+- name: 'Kaiwen Zheng'
+  gitee_id: 'rosecoffe'
+  github_id: 'rosecoffe'
+  repos:
+  - https://github.com/Open-Infra-Ops/openApiTest
 
 - name: 'Li Wang'
   gitee_id: 'wl'
@@ -895,3 +869,71 @@ users:
   repos:
     - https://github.com/cosdt/npu-support-helper
     - https://github.com/openmerlin/space-server
+
+- name: 'Ziqi Hong'
+  gitee_id: 'candyhong'
+  github_id: 'hongziqi'
+  repos:
+  - https://github.com/opensourceways/xihe-inference-evaluate
+
+- name: 'Chao Feng'
+  gitee_id: 'ibforu'
+  github_id: 'ibfru'
+  repos:
+    - https://gitee.com/openeuler/infrastructure
+    - https://gitee.com/openmind-ai/community
+    - https://gitee.com/openeuler/community
+    - https://github.com/opensourceways/server-common-lib
+    - https://github.com/opensourceways/community-robot-lib
+    - https://github.com/opensourceways/go-gitee
+    - https://github.com/opensourceways/robot-gitee-openeuler-review
+    - https://github.com/opensourceways/robot-gitee-opengauss-review
+    - https://github.com/opensourceways/robot-gitee-openeuler-welcome
+    - https://github.com/opensourceways/robot-gitee-welcome
+    - https://github.com/opensourceways/robot-gitee-label
+    - https://github.com/opensourceways/robot-gitee-approve
+    - https://github.com/opensourceways/robot-gitee-checkpr
+    - https://github.com/opensourceways/robot-gitee-lgtm
+    - https://github.com/opensourceways/robot-gitee-cla
+    - https://github.com/opensourceways/robot-gitee-review-trigger
+    - https://github.com/opensourceways/robot-gitee-tide
+    - https://github.com/opensourceways/robot-gitee-assign
+    - https://github.com/opensourceways/robot-gitee-lifecycle
+    - https://github.com/opensourceways/robot-gitee-scavenger
+    - https://github.com/opensourceways/mirrorbits
+
+- name: 'Yi Zhou'
+  gitee_id: 'Zherphy'
+  github_id: 'Zherphy'
+  repos:
+  - https://github.com/Zherphy/BigFiles
+  - https://gitee.com/Zherphy/test-project
+  - https://gitee.com/Zherphy/giftless
+  - https://gitee.com/Zherphy/testg-gitee
+
+- name: 'Xiaobao Liu'
+  gitee_id: 'liulxb'
+  github_id: 'liulxb'
+  repos:
+  - https://gitee.com/opensourceway/EasySoftwareService
+  - https://github.com/opensourceways/easypackages
+
+- name: 'Lang Wen'
+  gitee_id: 'Wenl4ng'
+  github_id: 'Goalina'
+  repos:
+  - https://github.com/openmerlin/gitea
+  - https://github.com/openmerlin/git-access
+  - https://github.com/openmerlin/merlin-website
+  repos_all_branches:
+  - https://gitee.com/openmind-ai/openmind-hub
+  
+- name: 'Yan Zhao'
+  gitee_id: 'zy960'
+  github_id: 'ssignik'
+  repos:
+  - https://github.com/opensourceways/apisix-build-tools
+  - https://github.com/opensourceways/apisix-docker
+  - https://github.com/ssignik/apisix-kubernetes
+  - https://github.com/opensourceways/certification-server
+  - https://gitee.com/opensourceway/EasySoftwareInput
