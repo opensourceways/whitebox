@@ -955,3 +955,18 @@ users:
   - https://github.com/opensourceways/datastat-server
   - https://github.com/opensourceways/EasySoftwareService
   - https://gitee.com/opensourceway/EaseSearch
+
+- name: 'Runze Hou'
+  gitee_id: 'MaoMao19970922'
+  github_id: 'Hourunze1997'
+  repos:
+    - https://github.com/opensourceways/message-manager
+    - https://github.com/opensourceways/message-transfer
+    - https://github.com/opensourceways/message-push
+    - https://github.com/openmerlin/merlin-server
+    - https://github.com/openmerlin/merlin-sdk
+    - https://github.com/openmerlin/gitea
+    - https://github.com/openmerlin/merlin-message-server
+    - https://github.com/openmerlin/git-access
+    - https://github.com/openmerlin/moderation-service
+    - https://github.com/openmerlin/moderation-service-sdk
