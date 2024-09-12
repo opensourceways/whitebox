@@ -868,3 +868,11 @@ users:
   - https://github.com/Open-Infra-Ops/IntegrateTest
   - https://github.com/Open-Infra-Ops/openApiTest
   - https://gitee.com/liuyu18801113053/ui-automation-testing
+
+- name: 'Xiaotian Yao'
+  gitee_id: 'yao-xiaobai'
+  github_id: 'yao-xiaobai'
+  repos:
+  - https://opensourceways/cve-manager
+  - https://opensourceways/cve-manager-ng
+  - https://github.com/Open-Infra-Ops/icms
