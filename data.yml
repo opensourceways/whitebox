@@ -920,3 +920,12 @@ users:
   repos_all_branches:
   - https://gitee.com/openmind-ai/openmind-hub
   
+- name: 'Yan Zhao'
+  gitee_id: 'zy960'
+  github_id: 'ssignik'
+  repos:
+  - https://github.com/opensourceways/apisix-build-tools
+  - https://github.com/opensourceways/apisix-docker
+  - https://github.com/ssignik/apisix-kubernetes
+  - https://github.com/opensourceways/certification-server
+  - https://gitee.com/opensourceway/EasySoftwareInput
