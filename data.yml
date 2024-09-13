@@ -287,6 +287,7 @@ users:
   - https://github.com/Ascend/torch_npu
   - https://github.com/Ascend/docs
   - https://github.com/pytorch/rfcs
+  - https://github.com/cosdt/torch_backend
   repos_all_branches:
   - https://gitee.com/src-openeuler/openstack-cinder
   - https://gitee.com/src-openeuler/openstack-glance
