@@ -66,6 +66,7 @@ users:
   - https://github.com/opensourceways/easyeditor-server
   repos_all_branches:
   - https://gitee.com/opensourceway/EasySoftwareService
+  - https://github.com/opensourceways/EasySoftwareService
 
 - name: 'zhongyuanke'
   gitee_id: 'drizzlezyk'
