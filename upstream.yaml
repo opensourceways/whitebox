@@ -8,6 +8,7 @@ users:
   - https://github.com/apache/spark-website
   - https://github.com/apache/spark-docker
   - https://github.com/pytorch/pytorch
+  - https://github.com/vllm-project/vllm
   - https://github.com/openhpc/ohpc
   - https://github.com/apache/hive
   - https://github.com/apache/hbase
