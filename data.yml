@@ -720,9 +720,6 @@ users:
   # Optional, fetch all branches of repos
   repos_all_branches:
     - https://github.com/pytorch/pytorch
-    - https://github.com/cosdt/pytorch
-    - https://github.com/cosdt/dockerfiles
-    - https://github.com/cosdt/spaces
     - https://gitee.com/ascend/pytorch
 
 - name: 'liuqi'
