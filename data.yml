@@ -975,3 +975,12 @@ users:
   - https://github.com/openmerlin/git-access
   - https://github.com/openmerlin/moderation-service
   - https://github.com/openmerlin/moderation-service-sdk
+  
+- name: "Zhenbin Lin"
+  gitee_id: "Zhenbin-8"
+  github_id: "Zhenbin-8"
+  repos:
+  - https://github.com/pytorch/pytorch
+  - https://github.com/cosdt/torch_backend
+  - https://github.com/Ascend/torch_npu
+  - https://github.com/Ascend/docs
