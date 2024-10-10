@@ -879,6 +879,9 @@ users:
   github_id: 'hongziqi'
   repos:
   - https://github.com/opensourceways/xihe-inference-evaluate
+  - https://gitee.com/mindspore/mindspore
+  - https://github.com/mindspore-lab/mindocr
+  - https://github.com/tinyms-ai/tinyms
 
 - name: 'Chao Feng'
   gitee_id: 'ibforu'
