@@ -66,6 +66,7 @@ users:
   - https://github.com/opensourceways/easyeditor-server
   repos_all_branches:
   - https://gitee.com/opensourceway/EasySoftwareService
+  - https://github.com/opensourceways/EasySoftwareService
 
 - name: 'zhongyuanke'
   gitee_id: 'drizzlezyk'
@@ -877,6 +878,9 @@ users:
   github_id: 'hongziqi'
   repos:
   - https://github.com/opensourceways/xihe-inference-evaluate
+  - https://gitee.com/mindspore/mindspore
+  - https://github.com/mindspore-lab/mindocr
+  - https://github.com/tinyms-ai/tinyms
 
 - name: 'Chao Feng'
   gitee_id: 'ibforu'
@@ -937,12 +941,36 @@ users:
   - https://github.com/opensourceways/apisix-build-tools
   - https://github.com/opensourceways/apisix-docker
   - https://github.com/ssignik/apisix-kubernetes
+  repos_all_branches:
   - https://github.com/opensourceways/certification-server
   - https://gitee.com/opensourceway/EasySoftwareInput
-  
+
 - name: 'Guangjie Bai'
   gitee_id: 'baibgj'
   github_id: 'GuangJie1'
   repos:
     - https://gitee.com/openeuler/eulerpublisher
     - https://gitee.com/openeuler/openeuler-docker-images
+
+- name: 'Chengzhi Xie'
+  gitee_id: 'cccabushi'
+  github_id: '2511689622'
+  repos:
+  - https://github.com/opensourceways/datastat-server
+  - https://github.com/opensourceways/EasySoftwareService
+  - https://gitee.com/opensourceway/EaseSearch
+
+- name: 'Runze Hou'
+  gitee_id: 'MaoMao19970922'
+  github_id: 'Hourunze1997'
+  repos:
+  - https://github.com/opensourceways/message-manager
+  - https://github.com/opensourceways/message-transfer
+  - https://github.com/opensourceways/message-push
+  - https://github.com/openmerlin/merlin-server
+  - https://github.com/openmerlin/merlin-sdk
+  - https://github.com/openmerlin/gitea
+  - https://github.com/openmerlin/merlin-message-server
+  - https://github.com/openmerlin/git-access
+  - https://github.com/openmerlin/moderation-service
+  - https://github.com/openmerlin/moderation-service-sdk
