@@ -854,11 +854,10 @@ users:
   github_id: 'yao-xiaobai'
   repos:
   - https://github.com/opensourceways/cve-manager
-  - https://github.com/opensourceways/cve-manager-ng
-  - https://github.com/Open-Infra-Ops/icms
   repos_all_branches:
   - https://github.com/opensourceways/cve-manager-ng
   - https://github.com/Open-Infra-Ops/icms
+  - https://github.com/opensourceways/ascend_optimization_scripts
 
 - name: 'Kaiwen Zheng'
   gitee_id: 'rosecoffe'
