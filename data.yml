@@ -423,6 +423,7 @@ users:
   gitee_id: 'tzing_t'
   github_id: 'tzing0013'
   repos:
+  - https://github.com/opensourceways/infraAIService
   - https://gitee.com/openeuler/openstack
   - https://gitee.com/openeuler/release-management
   - https://gitee.com/src-openeuler/python-storage-interfaces
