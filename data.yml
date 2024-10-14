@@ -975,3 +975,10 @@ users:
   - https://github.com/openmerlin/git-access
   - https://github.com/openmerlin/moderation-service
   - https://github.com/openmerlin/moderation-service-sdk
+
+- name: 'Jiahao Chen'
+  gitee_id: 'jiahaochen666'
+  github_id: 'jiahaochen666'
+  repos_all_branches:
+  - https://gitee.com/mindspore/mindspore
+  - https://github.com/mindspore-lab/mindocr
