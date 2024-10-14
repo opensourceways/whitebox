@@ -402,21 +402,50 @@ users:
   gitee_id: 'gzbang'
   github_id: 'gzbang'
   repos:
+  # openEuler
   - https://gitee.com/openeuler/openEuler-portal
-  - https://gitee.com/opengauss/website
-  - https://gitee.com/openlookeng/website-v2
-  - https://gitee.com/mindspore/mindspore.github.io
-  - https://gitee.com/openeuler/opendesign-miniprogram
-  - https://gitee.com/openeuler/opendesign-templates
+  - https://gitee.com/openeuler/quick-issue
+  - https://gitee.com/openeuler/easy-software
+  - https://github.com/opensourceways/message-manager-website
   - https://gitee.com/openeuler/opendesign-datastat
-  - https://gitee.com/openeuler/opendesign-internship
-  - https://gitee.com/mindspore/xihe-website
-  repos_all_branches:
-  - https://gitee.com/openeuler/opendesign-components
-  - https://gitee.com/mindspore/website-v2
+  - https://github.com/opensourceways/certification-website
+  - https://gitee.com/openeuler/opendesign-miniprogram
   - https://github.com/opensourceways/playground-app
   - https://gitee.com/openeuler/opendesign
-  - https://github.com/opensourceways/message-manager-website
+  - https://gitee.com/openeuler/opendesign-internship
+  - https://github.com/opensourceways/software-package-website
+  - https://github.com/opensourceways/datastat-manage-website
+  # openGauss
+  # MindSpore
+  - https://gitee.com/mindspore/mindspore-portal
+  - https://gitee.com/mindspore/mindspore.github.io
+  - https://gitee.com/mindspore/website-docs
+  - https://gitee.com/mindspore/xihe-website
+  - https://gitee.com/mindspore/xihe-docs
+  # openLooKeng
+  - https://gitee.com/openlookeng/website-v2
+  # openMind
+  - https://github.com/openmerlin/merlin-website
+  - https://github.com/openmerlin/docs
+  - https://github.com/openmerlin/blogs
+  - https://gitee.com/modelers/merlin-website
+  - https://gitee.com/modelers/merlin-docs
+  - https://gitee.com/modelers/merlin-blogs
+  # infra
+  - https://github.com/opensourceways/oneid-website
+  repos_all_branches:
+  # openEuler
+  - https://gitee.com/openeuler/docs.git
+  - https://gitee.com/openeuler/opendesign-components
+  - https://gitee.com/openeuler/opendesign-build
+  - https://gitee.com/openeuler/opendesign-templates
+  # openGauss
+  - https://gitee.com/opengauss/website
+  - https://gitee.com/opengauss/docs
+  - https://gitee.com/opengauss/blog
+  # MindSpore
+  - https://gitee.com/mindspore/website-v2
+  # infra
   - https://github.com/opensourceways/app-cla-webui
 
 - name: 'Ting Zheng'
