@@ -433,6 +433,7 @@ users:
   - https://gitee.com/modelers/merlin-blogs
   # infra
   - https://github.com/opensourceways/oneid-website
+  - https://github.com/opensourceways/happy-new-year
   repos_all_branches:
   # openEuler
   - https://gitee.com/openeuler/docs.git
