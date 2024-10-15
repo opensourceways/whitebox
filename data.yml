@@ -448,6 +448,8 @@ users:
   - https://gitee.com/mindspore/website-v2
   # infra
   - https://github.com/opensourceways/app-cla-webui
+  # openUBMC
+  - https://github.com/opensourceways/openUBMC-portal
 
 - name: 'Ting Zheng'
   gitee_id: 'tzing_t'
