@@ -963,6 +963,9 @@ users:
   - https://github.com/openmerlin/gitea
   - https://github.com/openmerlin/git-access
   - https://github.com/openmerlin/merlin-website
+  - https://gitee.com/modelers/gitea
+  - https://gitee.com/modelers/go-sdk
+  - https://gitee.com/modelers/git-access
   repos_all_branches:
   - https://gitee.com/openmind-ai/openmind-hub
   
@@ -1006,3 +1009,19 @@ users:
   - https://github.com/openmerlin/git-access
   - https://github.com/openmerlin/moderation-service
   - https://github.com/openmerlin/moderation-service-sdk
+
+- name: 'Fangqun Ju'
+  gitee_id: 'wj00037'
+  github_id: 'wj00037'
+  repos:
+  - https://gitee.com/modelers/gitea
+  - https://gitee.com/modelers/go-sdk
+  - https://gitee.com/modelers/deploy
+  - https://gitee.com/modelers/git-access
+  - https://gitee.com/modelers/merlin-server
+  - https://github.com/opensourceways/BigFiles
+  - https://github.com/opensourceways/kafka-lib
+  - https://gitee.com/modelers/moderation-server
+  - https://gitee.com/modelers/gitea-hook-delivery
+  repos_all_branches:
+  - https://gitee.com/openmind-ai/openmind-hub
