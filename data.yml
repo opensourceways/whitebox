@@ -739,21 +739,20 @@ users:
   github_id: 'shink'
   # Recommended, only fetch the default branch of repos
   repos:
-    - https://github.com/pytorch/pytorch.git
-    - https://github.com/pytorch/examples.git
-    - https://github.com/pytorch/tutorials.git
-    - https://github.com/Ascend/docs.git
-    - https://github.com/Ascend/infrastructure.git
-    - https://github.com/cosdt/pytorch.git
-    - https://github.com/cosdt/dockerfiles.git
-    - https://github.com/cosdt/readme.git
+    - https://github.com/pytorch/pytorch
+    - https://github.com/pytorch/examples
+    - https://github.com/pytorch/tutorials
+    - https://github.com/Ascend/docs
+    - https://github.com/Ascend/infrastructure
+    - https://github.com/cosdt/pytorch
+    - https://github.com/cosdt/dockerfiles
+    - https://github.com/cosdt/readme
+    - https://github.com/cosdt/torch_backend
+    - https://github.com/openmerlin/dockerfile
   # Optional, fetch all branches of repos
   repos_all_branches:
-    - https://github.com/pytorch/pytorch.git
-    - https://github.com/cosdt/pytorch.git
-    - https://github.com/cosdt/dockerfiles.git
-    - https://github.com/cosdt/spaces.git
-    - https://gitee.com/ascend/pytorch.git
+    - https://github.com/pytorch/pytorch
+    - https://gitee.com/ascend/pytorch
 
 - name: 'liuqi'
   gitee_id: 'liuqi469227928'
