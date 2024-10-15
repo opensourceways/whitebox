@@ -989,6 +989,7 @@ users:
   - https://github.com/opensourceways/datastat-server
   - https://github.com/opensourceways/EasySoftwareService
   - https://gitee.com/opensourceway/EaseSearch
+  - https://gitee.com/opensourceway/EasySoftwareInput
 
 - name: 'Runze Hou'
   gitee_id: 'MaoMao19970922'
